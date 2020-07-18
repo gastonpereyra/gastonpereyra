@@ -1,6 +1,6 @@
 ### Gastón Pereyra 👋
 
-[![Twitter Badge](https://img.shields.io/badge/-Isha_Gupta-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/gastonpereyra)](https://twitter.com/gastonpereyra)  [![Linkedin Badge](https://img.shields.io/badge/-Isha_Gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaston-pereyra//)](https://www.linkedin.com/in/gaston-pereyra/) [![Gmail Badge](https://img.shields.io/badge/-rgpxen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:rgpxen@gmail.com)
+[![Twitter Badge](https://img.shields.io/badge/-Gaston_Pereyra-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/gastonpereyra)](https://twitter.com/gastonpereyra)  [![Linkedin Badge](https://img.shields.io/badge/-Gaston_Pereyra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gaston-pereyra//)](https://www.linkedin.com/in/gaston-pereyra/) [![Gmail Badge](https://img.shields.io/badge/-rgpxen@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ishagupta2103@gmail.com)](mailto:rgpxen@gmail.com)
 
 - 🔭 I’m currently working on [Fizzmod](http://fizzmod.com/) as Backend Developer
 - 🌱 I’m currently learning Data Analyst stuff
