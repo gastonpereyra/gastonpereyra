@@ -11,7 +11,7 @@
 
 <!-- ![github stats](https://github-readme-stats.vercel.app/api?username=gastonpereyra&show_icons=true) -->
 
-<img align='center' src="https://github-readme-stats.vercel.app/api?username=gastonpereyra&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=gastonpereyra&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919">
 <!--
 **gastonpereyra/gastonpereyra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
