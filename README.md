@@ -2,6 +2,18 @@
 <p align="center">... :computer: <i>Web-Developer</i> from <b>Argentina</b> :argentina: ...</p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gastonpereyra&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919"></p>
 
+---
+
+## :school: Studies
+### :black_square_button: Informatics Engineering (some years)
+
+<code><img height="96" src="http://www.fi.uba.ar/sites/default/files/styles/banner_noticia/public/field/image/Nueva%20marca%20difusion%20-%20web.jpg?itok=6R2GdrP0"></code>
+
+## :cloud: Working 
+### :white_check_mark: Back-End Dev
+
+[<code><img height="48" src="https://avatars0.githubusercontent.com/u/56369819?s=200&v=4"></code>](http://fizzmod.com/)
+[<code><img height="48" src="https://avatars3.githubusercontent.com/u/49998302?s=200&v=4"></code>](https://github.com/janis-commerce)
 
 ### Languages and Tools
 
