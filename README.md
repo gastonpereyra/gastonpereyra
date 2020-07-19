@@ -1,4 +1,7 @@
-<h1 align= "center"><b>:wave: Hi! I'm Gastón :lemon:</b></h1>
+<h1 align="center"><b>:wave: Hi! I'm Gastón :lemon:</b></h1>
+<p align="center">... :computer: <i>Web-Developer</i> from <b>Argentina</b> :argentina: ...</p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=gastonpereyra&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919"></p>
+
 
 ### Languages and Tools
 
@@ -20,17 +23,6 @@
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/windows/windows.png"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ubuntu/ubuntu.png"></code>
-
-## Some Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=gastonpereyra&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919">
-
-- 🔭 I’m currently working on [Fizzmod](http://fizzmod.com/) as Backend Developer
-- 🌱 I’m currently learning Data Analyst stuff
-- 👯 I’m looking to collaborate on Node.js proyects
-- 💬 Ask me about Node.js, or anything you like
-- 📫 How to reach me: Follow me!
-- ⚡ Fun fact: I like Lemon
 
 ## Contact Me
 
