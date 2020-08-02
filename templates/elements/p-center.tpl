@@ -1,0 +1,1 @@
+<p align="center">{{p_info}}</p>

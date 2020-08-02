@@ -1,0 +1,1 @@
+[![{{social_media_title}} Badge](https://img.shields.io/badge/-{{badge_message}}-{{badge_back_color}}?style=for-the-badge&logo={{social_media_name}}&logoColor={{social_media_color}}&link={{social_media_link}})]({{social_media_link}})
