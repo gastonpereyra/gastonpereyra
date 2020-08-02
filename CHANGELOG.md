@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - Templastes for tech section
 - Templastes for contact section
 - Templastes for common elements
+- Languages Stats
 
 ### Changed
 -  README profile stats total commits, now is not by year
