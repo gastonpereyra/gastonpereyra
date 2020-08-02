@@ -1,0 +1,27 @@
+{
+  "name": "gastonpereyra",
+  "version": "1.0.0",
+  "description": "Profile",
+  "main": "lib/generate.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gastonpereyra/gastonpereyra.git"
+  },
+  "keywords": [
+    "profile"
+  ],
+  "author": "Gastón Pereyra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gastonpereyra/gastonpereyra/issues"
+  },
+  "homepage": "https://github.com/gastonpereyra/gastonpereyra#readme",
+  "devDependencies": {
+    "eslint": "^7.4.0",
+    "eslint-config-airbnb-base": "^13.2.0",
+    "eslint-plugin-import": "^2.22.0"
+  }
+}
