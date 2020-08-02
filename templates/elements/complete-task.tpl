@@ -1,0 +1,1 @@
+{{task_is_complete}} {{task_title}} {{task_extra}}
