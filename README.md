@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock12: Maquinchao (Río Negro) :earth_americas: | 5ºC :blue_heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock6: Santa Fe (Santa Fe) :earth_americas: | 22.1ºC :yellow_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: East :arrow_left:</p>
 
 ---
 
