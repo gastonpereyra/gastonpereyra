@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock12: Benito Juárez (Buenos Aires) :earth_americas: | 6ºC :blue_heart: | Cloudy High :partly_sunny: | null km/h :wind_chime: Calma :ok:</p>
+> <p align="center">undefined San Luis (San Luis) :earth_americas: | 8.2ºC :blue_heart: | Sunny :sunny: | 7 km/h :wind_chime: East :arrow_left:</p>
 
 ---
 
