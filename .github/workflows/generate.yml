@@ -1,4 +1,4 @@
-name: Generate Readme
+name: Add Weather to Readme
 
 on:
   schedule:
