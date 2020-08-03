@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock6: Alta Gracia (Córdoba) :earth_americas: | 14.2ºC :green_heart: | Sunny Overcast :partly_sunny: | 1 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock12: San Martín de Los Andes (Neuquén) :earth_americas: | 4.4ºC :blue_heart: | Cloudy High :partly_sunny: | null km/h :wind_chime: Calma :ok:</p>
 
 ---
 
