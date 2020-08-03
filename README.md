@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock8: Villa Dolores (Córdoba) :earth_americas: | 29.9ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 40 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock10: Las Lomitas (Formosa) :earth_americas: | 29.2ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
