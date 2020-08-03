@@ -5,19 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
-## [Unrealeased]
+## [2.0.0] - 2020-08-03
 ### Added
 - Templates for Reamde Main
-- Templastes for title section
-- Templastes for studies section
-- Templastes for working section
-- Templastes for tech section
-- Templastes for contact section
-- Templastes for common elements
 - Languages Stats
+- Generate README function
+- Action Workflow
 
 ### Changed
--  README profile stats total commits, now is not by year
+- README profile stats total commits, now is not by year
+- README profile actual Weather
 
 ## [1.0.0] - 2020-07-19
 ### Added
