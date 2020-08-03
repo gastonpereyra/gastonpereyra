@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock2: Uspallata (Mendoza) :earth_americas: | 14.3ºC :green_heart: | Sunny :sunny: | 3 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock5: Ciudad Jardin Lomas del Palomar (Buenos Aires) :earth_americas: | 20.8ºC :yellow_heart: | Cloudy High :partly_sunny: | 13 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
