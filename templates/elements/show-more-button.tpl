@@ -1,1 +1,0 @@
-[<img height="{{show_more_button_size}}" src="https://img.icons8.com/cotton/2x/plus.png">]({{show_more_button_link}})
