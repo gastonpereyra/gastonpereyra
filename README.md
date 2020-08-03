@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock7: Paraná (Entre Ríos) :earth_americas: | 29.9ºC :yellow_heart: | Sunny :sunny: | 20 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock8: San Carlos de Bariloche (Río Negro) :earth_americas: | 6.7ºC :blue_heart: | Cloudy :cloud: | 31 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
