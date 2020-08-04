@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock3: Caleta Olivia (Santa Cruz) :earth_americas: | 9.1ºC :blue_heart: | Sunny :sunny: | 27 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock3: Pilar Observatorio (Córdoba) :earth_americas: | 19.9ºC :green_heart: | Sunny :sunny: | 9 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
