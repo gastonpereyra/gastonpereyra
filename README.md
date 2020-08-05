@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock9: Zárate (Buenos Aires) :earth_americas: | 24.9ºC :yellow_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock10: Miramar (Buenos Aires) :earth_americas: | 15.8ºC :green_heart: | Cloudy :cloud: | 3 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
