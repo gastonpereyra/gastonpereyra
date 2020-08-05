@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock12: Oberá (Misiones) :earth_americas: | 19.8ºC :green_heart: | Sunny :sunny: | 3 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock1: Villa General Belgrano (Córdoba) :earth_americas: | 20.5ºC :yellow_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
