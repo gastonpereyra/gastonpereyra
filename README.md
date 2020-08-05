@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock7: Tigre (Buenos Aires) :earth_americas: | 26.5ºC :yellow_heart: | Cloudy :cloud: | 22 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock7: Puerto San Julián (Santa Cruz) :earth_americas: | 7.6ºC :blue_heart: | Cloudy High :partly_sunny: | 40 km/h :wind_chime: North-West :arrow_upper_left</p>
 
 ---
 
