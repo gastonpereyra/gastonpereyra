@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock4: Las Lomitas (Formosa) :earth_americas: | 32.8ºC :heart: | Sunny :sunny: | 13 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock5: Aimogasta (La Rioja) :earth_americas: | 18.8ºC :green_heart: | Cloudy :cloud: | 11 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
