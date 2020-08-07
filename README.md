@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock6: Santiago del Estero (Santiago del Estero) :earth_americas: | 15.4ºC :green_heart: | Cloudy :cloud: | 7 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock7: Concordia (Entre Ríos) :earth_americas: | 12.7ºC :green_heart: | Sunny :sunny: | 18 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
