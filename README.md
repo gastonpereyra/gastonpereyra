@@ -1,8 +1,8 @@
 <h1 align="center"><b>:wave: Hi! I'm Gastón :lemon:</b></h1>
 <p align="center">... :computer: <i>Web-Developer</i> from <b>Argentina</b> :argentina: ...</p>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=gastonpereyra&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&include_all_commits=true&hide_title=true">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
+    <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api?username=gastonpereyra&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&include_all_commits=true&hide_title=true">
+    <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
 > <p align="center">:clock10: Zárate (Buenos Aires) :earth_americas: | 11.8ºC :green_heart: | Cloudy :cloud: | 18 km/h :wind_chime: East :arrow_right:</p>
