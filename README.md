@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock11: Monte Hermoso (Buenos Aires) :earth_americas: | 6.3ºC :blue_heart: | Cloudy :cloud: | 11 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: San Salvador de Jujuy (Jujuy) :earth_americas: | 12.2ºC :green_heart: | Cloudy High :partly_sunny: | 7 km/h :wind_chime: North-West :arrow_upper_left</p>
 
 ---
 
