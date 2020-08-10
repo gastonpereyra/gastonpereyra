@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock5: Santa María (Catamarca) :earth_americas: | 25.6ºC :yellow_heart: | Sunny :sunny: | 16 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock6: La Carlota (Córdoba) :earth_americas: | 17.5ºC :green_heart: | Sunny Overcast :partly_sunny: | 29 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
