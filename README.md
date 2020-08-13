@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock1: General Villegas (Buenos Aires) :earth_americas: | 10.1ºC :green_heart: | Sunny Overcast :partly_sunny: | 13 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock2: Lomas de Zamora (Buenos Aires) :earth_americas: | 5.7ºC :blue_heart: | Sunny Overcast :partly_sunny: | 5 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
