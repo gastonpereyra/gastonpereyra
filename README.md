@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock3: Almafuerte (Córdoba) :earth_americas: | 6.7ºC :blue_heart: | Sunny :sunny: | 11 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock5: Chacabuco (Buenos Aires) :earth_americas: | 2.2ºC :blue_heart: | Sunny :sunny: | 7 km/h :wind_chime: North-West :arrow_upper_left</p>
 
 ---
 
