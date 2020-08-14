@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock10: Azul (Buenos Aires) :earth_americas: | 3.2ºC :blue_heart: | Cloudy High :partly_sunny: | 3 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock11: Laboulaye (Córdoba) :earth_americas: | -1.6ºC :purple_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
