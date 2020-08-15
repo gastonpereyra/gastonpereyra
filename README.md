@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock7: Laboulaye (Córdoba) :earth_americas: | 1.1ºC :blue_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock9: Base San Martín (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -10.6ºC :purple_heart: | Sunny :sunny: | 37 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
