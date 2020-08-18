@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock10: Chascomus (Buenos Aires) :earth_americas: | 11.8ºC :green_heart: | Sunny :sunny: | 11 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock11: Villa La Angostura (Neuquén) :earth_americas: | 1.2ºC :blue_heart: | Cloudy High :partly_sunny: | 24 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
