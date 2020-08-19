@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock12: Villa Reynolds (San Luis) :earth_americas: | 3.9ºC :blue_heart: | Foggy :foggy: | 9 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock1: Aimogasta (La Rioja) :earth_americas: | 12.6ºC :green_heart: | Foggy :foggy: | 11 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
