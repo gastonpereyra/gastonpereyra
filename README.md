@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock4: San Ramón de La Nueva Orán (Salta) :earth_americas: | 8ºC :blue_heart: | Cloudy High :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock5: Casilda (Santa Fe) :earth_americas: | -0.3ºC :purple_heart: | Sunny :sunny: | 7 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
