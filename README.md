@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock10: Santiago del Estero (Santiago del Estero) :earth_americas: | 16.6ºC :green_heart: | Sunny :sunny: | 5 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock10: La Paz (Entre Ríos) :earth_americas: | 14.1ºC :green_heart: | Sunny :sunny: | 7 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
