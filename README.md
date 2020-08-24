@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock6: Capital Federal (Capital Federal) :earth_americas: | 22.6ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 11 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock7: La Quiaca (Jujuy) :earth_americas: | 19.6ºC :green_heart: | Cloudy High :partly_sunny: | 14 km/h :wind_chime: North-West :arrow_upper_left</p>
 
 ---
 
