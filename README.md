@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock5: Cruz del Eje (Córdoba) :earth_americas: | 12.2ºC :green_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock6: Maipú (Buenos Aires) :earth_americas: | 13ºC :green_heart: | Foggy :foggy: | 5 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
