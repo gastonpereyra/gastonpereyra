@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock3: El Calafate (Santa Cruz) :earth_americas: | 6.4ºC :blue_heart: | Cloudy High :partly_sunny: | 37 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock3: Base Belgrano II (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -35ºC :purple_heart: | Sunny :sunny: | 11 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
