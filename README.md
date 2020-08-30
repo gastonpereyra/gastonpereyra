@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock1: Dolores (Buenos Aires) :earth_americas: | 4.3ºC :blue_heart: | Sunny :sunny: | 11 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock1: Concordia (Entre Ríos) :earth_americas: | 15.2ºC :green_heart: | Foggy :foggy: | 11 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
