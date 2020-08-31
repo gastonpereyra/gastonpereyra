@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock12: Las Flores (Buenos Aires) :earth_americas: | 6.4ºC :blue_heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock12: Coronel Moldes (Córdoba) :earth_americas: | 10ºC :green_heart: | Sunny Overcast :partly_sunny: | 16 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
