@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock2: Rosario (Santa Fe) :earth_americas: | 7.5ºC :blue_heart: | Rainy :umbrella: | 16 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock3: Coronel Moldes (Córdoba) :earth_americas: | 8.8ºC :blue_heart: | Foggy :foggy: | 38 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
