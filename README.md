@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock11: Formosa (Formosa) :earth_americas: | 11.3ºC :green_heart: | Cloudy High :partly_sunny: | 14 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock12: Ushuaia (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 1.8ºC :blue_heart: | Foggy :foggy: | 13 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
