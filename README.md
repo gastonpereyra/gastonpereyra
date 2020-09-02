@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock9: Villa Dolores (Córdoba) :earth_americas: | 7.2ºC :blue_heart: | Foggy :foggy: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock10: Santiago del Estero (Santiago del Estero) :earth_americas: | 3.4ºC :blue_heart: | Sunny :sunny: | 5 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
