@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock11: Puerto Iguazú (Misiones) :earth_americas: | 20.8ºC :yellow_heart: | Cloudy High :partly_sunny: | 13 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock11: Capital Federal (Capital Federal) :earth_americas: | 10.1ºC :green_heart: | Rainy :umbrella: | 14 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
