@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock12: San Antonio de Areco (Buenos Aires) :earth_americas: | 10.6ºC :green_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock1: Concordia (Entre Ríos) :earth_americas: | 15.2ºC :green_heart: | Sunny :sunny: | 5 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
