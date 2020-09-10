@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock10: Tandil (Buenos Aires) :earth_americas: | 1.6ºC :blue_heart: | Sunny :sunny: | 7 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock11: Junín (Buenos Aires) :earth_americas: | 9.7ºC :blue_heart: | Foggy :foggy: | 7 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
