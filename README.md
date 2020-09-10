@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock8: San Salvador de Jujuy (Jujuy) :earth_americas: | 15.5ºC :green_heart: | Cloudy High :partly_sunny: | 13 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock10: Tandil (Buenos Aires) :earth_americas: | 1.6ºC :blue_heart: | Sunny :sunny: | 7 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
