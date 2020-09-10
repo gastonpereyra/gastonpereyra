@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock3: Tandil (Buenos Aires) :earth_americas: | 16.3ºC :green_heart: | Sunny :sunny: | 20 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock4: Bell Ville (Córdoba) :earth_americas: | 24.8ºC :yellow_heart: | Sunny :sunny: | 29 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
