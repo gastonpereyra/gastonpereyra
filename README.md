@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock7: Venado Tuerto (Santa Fe) :earth_americas: | 21.5ºC :yellow_heart: | Cloudy High :partly_sunny: | 14 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock9: General Acha (La Pampa) :earth_americas: | 21.8ºC :yellow_heart: | Sunny :sunny: | 25 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
