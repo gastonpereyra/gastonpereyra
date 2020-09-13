@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock3: Base Carlini (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -2.5ºC :purple_heart: | Sunny Overcast :partly_sunny: | 25 km/h :wind_chime: North-West :arrow_upper_left</p>
+> <p align="center">:clock5: Ceres (Santa Fe) :earth_americas: | 16.3ºC :green_heart: | Foggy :foggy: | 7 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
