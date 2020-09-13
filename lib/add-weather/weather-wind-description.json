@@ -1,0 +1,11 @@
+{
+    "Oeste": "West",
+	"Sur": "South",
+	"Norte": "North",
+	"Este": "East",
+	"Noroeste": "North-West",
+	"Noreste": "North-East",
+	"Sudoeste": "South-West",
+	"Sudeste": "South-East",
+	"Calma": "Calm"
+}
