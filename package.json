@@ -1,10 +1,10 @@
 {
   "name": "gastonpereyra",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Profile",
   "main": "lib/generate.js",
   "scripts": {
-    "add-weather" : "node ."
+    "add-weather": "node ."
   },
   "repository": {
     "type": "git",
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/gastonpereyra/gastonpereyra#readme",
   "devDependencies": {
-    "eslint": "^7.4.0",
+    "eslint": "^7.9.0",
     "eslint-config-airbnb-base": "^13.2.0",
     "eslint-plugin-import": "^2.22.0"
   },
