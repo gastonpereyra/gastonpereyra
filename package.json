@@ -25,6 +25,9 @@
     "eslint-plugin-import": "^2.22.0"
   },
   "dependencies": {
+    "are-objects-equals": "^1.0.0",
+    "objects-normalizer": "^1.0.3",
+    "press-f": "^1.1.0",
     "weather-arg": "^1.0.1"
   }
 }
