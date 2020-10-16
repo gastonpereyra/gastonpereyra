@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock12: Chepes (La Rioja) :earth_americas: | 22.6ºC :yellow_heart: | Sunny :sunny: | 9 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock8: Eduardo Castex (La Pampa) :earth_americas: | 30.8ºC :heart: | Sunny :sunny: | 37 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
