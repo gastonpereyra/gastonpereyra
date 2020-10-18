@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock8: Balcarce (Buenos Aires) :earth_americas: | 16.1ºC :green_heart: | Sunny :sunny: | 11 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: San Carlos de Bolívar (Buenos Aires) :earth_americas: | 21.3ºC :yellow_heart: | Thunderstorm :zap: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
