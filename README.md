@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock7: Río Cuarto (Córdoba) :earth_americas: | 39.2ºC :heart: | Sunny Overcast :partly_sunny: | 37 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: Base Orcadas (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -5.6ºC :purple_heart: | Snowfall :snowflake: | 20 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
