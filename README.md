@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock8: General José de San Martín (Chaco) :earth_americas: | 24.3ºC :yellow_heart: | Cloudy High :partly_sunny: | 11 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock11: Venado Tuerto (Santa Fe) :earth_americas: | 14.5ºC :green_heart: | Foggy :foggy: | 14 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
