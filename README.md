@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock8: Villa Reynolds (San Luis) :earth_americas: | 20.1ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 18 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock12: Termas de Río Hondo (Santiago del Estero) :earth_americas: | 21.2ºC :yellow_heart: | Foggy :foggy: | 7 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
