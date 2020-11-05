@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock7: Miramar (Buenos Aires) :earth_americas: | 13.4ºC :green_heart: | Sunny Overcast :partly_sunny: | 25 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock12: Aimogasta (La Rioja) :earth_americas: | 22.8ºC :yellow_heart: | Sunny :sunny: | 22 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
