@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock12: Río Gallegos (Santa Cruz) :earth_americas: | 9.4ºC :blue_heart: | Cloudy High :partly_sunny: | 31 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock8: Mar del Plata (Buenos Aires) :earth_americas: | 11.6ºC :green_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
