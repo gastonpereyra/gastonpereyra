@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock8: San Andrés (Buenos Aires) :earth_americas: | 17.9ºC :green_heart: | Sunny :sunny: | 5 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: Monte Caseros (Corrientes) :earth_americas: | 21.6ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 13 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
