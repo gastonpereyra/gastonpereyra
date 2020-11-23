@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock8: San Andrés (Buenos Aires) :earth_americas: | 20.4ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 14 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock11: Caleta Olivia (Santa Cruz) :earth_americas: | 17ºC :green_heart: | Cloudy High :partly_sunny: | 24 km/h :wind_chime: North-West :arrow_upper_left</p>
 
 ---
 
