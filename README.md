@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock7: Presidencia Roque Sáenz Peña (Chaco) :earth_americas: | 29ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 18 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock12: Viedma (Río Negro) :earth_americas: | 21.1ºC :yellow_heart: | Sunny :sunny: | 29 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
