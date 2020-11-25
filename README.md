@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock12: Viedma (Río Negro) :earth_americas: | 21.1ºC :yellow_heart: | Sunny :sunny: | 29 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock8: Córdoba (Córdoba) :earth_americas: | 30.2ºC :heart: | Sunny Overcast :partly_sunny: | 14 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
