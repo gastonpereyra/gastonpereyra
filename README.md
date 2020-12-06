@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock12: Base Carlini (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 1.1ºC :blue_heart: | Foggy :foggy: | 42 km/h :wind_chime: North-West :arrow_upper_left</p>
+> <p align="center">:clock8: Cutral Co (Neuquén) :earth_americas: | 21.4ºC :yellow_heart: | Sunny :sunny: | 5 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
