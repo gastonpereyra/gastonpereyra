@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock12: Zapala (Neuquén) :earth_americas: | 17.3ºC :green_heart: | Sunny Overcast :partly_sunny: | 22 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock8: Villa La Angostura (Neuquén) :earth_americas: | 24.6ºC :yellow_heart: | Sunny :sunny: | 40 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
