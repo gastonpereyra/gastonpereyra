@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock8: Pergamino (Buenos Aires) :earth_americas: | 17.3ºC :green_heart: | Sunny Overcast :partly_sunny: | 1 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock12: Rawson (Chubut) :earth_americas: | 12.8ºC :green_heart: | Foggy :foggy: | 37 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
