@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock12: La Toma (San Luis) :earth_americas: | 22.6ºC :yellow_heart: | Cloudy High :partly_sunny: | 11 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock8: Casilda (Santa Fe) :earth_americas: | 17.1ºC :green_heart: | Cloudy High :partly_sunny: | 7 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
