@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock8: Perico (Jujuy) :earth_americas: | 22.2ºC :yellow_heart: | Foggy :foggy: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock12: Dolores (Buenos Aires) :earth_americas: | 18.6ºC :green_heart: | Rainy :umbrella: | 18 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
