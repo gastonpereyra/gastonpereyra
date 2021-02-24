@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock12: Chamical (La Rioja) :earth_americas: | 23.6ºC :yellow_heart: | Foggy :foggy: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock8: Caucete (San Juan) :earth_americas: | 17.6ºC :green_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
