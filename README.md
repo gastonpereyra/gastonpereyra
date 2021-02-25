@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock8: Ushuaia (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 4.6ºC :blue_heart: | Rainy :umbrella: | 59 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock12: Mercedes (Corrientes) :earth_americas: | 23.2ºC :yellow_heart: | Sunny :sunny: | 11 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
