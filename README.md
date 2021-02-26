@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock8: José María Ezeiza (Buenos Aires) :earth_americas: | 32.1ºC :heart: | Sunny :sunny: | 14 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock12: Aeroparque Buenos Aires (Capital Federal) :earth_americas: | 26.5ºC :yellow_heart: | Sunny :sunny: | 11 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
