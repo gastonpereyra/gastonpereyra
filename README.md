@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock12: Uspallata (Mendoza) :earth_americas: | 15.8ºC :green_heart: | Sunny Overcast :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock8: Ciudad Jardin Lomas del Palomar (Buenos Aires) :earth_americas: | 29ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 20 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
