@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock12: Bell Ville (Córdoba) :earth_americas: | 22.7ºC :yellow_heart: | Sunny :sunny: | 9 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock8: Base Marambio (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -3.7ºC :purple_heart: | Foggy :foggy: | 24 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
