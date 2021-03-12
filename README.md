@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock12: Punta de Vacas (Mendoza) :earth_americas: | 13.9ºC :green_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock8: Chapelco (Neuquén) :earth_americas: | 27.2ºC :yellow_heart: | Sunny :sunny: | 7 km/h :wind_chime: Direcciones Variables :ok:</p>
 
 ---
 
