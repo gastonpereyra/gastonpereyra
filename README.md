@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock7: Humahuaca (Jujuy) :earth_americas: | 27.8ºC :yellow_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock1: Sunchales (Santa Fe) :earth_americas: | 19.3ºC :green_heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
