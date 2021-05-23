@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock1: Gondolin (Middle Earth) :earth_americas: | Hay Magia en el Aire :yellow_heart: | Isolated drizzles :droplet: | 7.239307785689011 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock11: Rivendel (Eriador) :earth_americas: | -4.63°C :purple_heart: | Rainy :umbrella: | 0.98 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
