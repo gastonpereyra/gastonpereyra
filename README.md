@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock8: Balcarce (Buenos Aires) :earth_americas: | 1.6ºC :blue_heart: | Cloudy High :partly_sunny: | 5 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock12: Empedrado (Corrientes) :earth_americas: | 10.3ºC :green_heart: | Rainy :umbrella: | 13 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
