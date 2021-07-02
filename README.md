@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock6: Río Grande (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -1.4ºC :purple_heart: | Cloudy High :partly_sunny: | 18 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: Metán (Salta) :earth_americas: | 0.2ºC :blue_heart: | Cloudy High :partly_sunny: | 5 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
