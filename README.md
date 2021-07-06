@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock12: Base Belgrano II (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -15.2ºC :purple_heart: | Foggy :foggy: | 11 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock8: Paso de Los Libres (Corrientes) :earth_americas: | 10.8ºC :green_heart: | Sunny Overcast :partly_sunny: | 13 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
