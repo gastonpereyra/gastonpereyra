@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock12: Ceres (Santa Fe) :earth_americas: | 13.6ºC :green_heart: | Sunny Overcast :partly_sunny: | 14 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock7: San Luis (San Luis) :earth_americas: | 10.3ºC :green_heart: | Foggy :foggy: | 27 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
