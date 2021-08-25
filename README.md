@@ -5,7 +5,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock8: Rivendel (Eriador) :earth_americas: | 13.16°C :green_heart: | Rain Mix :umbrella: | 9.29 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock12: Paso de Los Libres (Corrientes) :earth_americas: | 13.7ºC :green_heart: | Foggy :foggy: | 24 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
