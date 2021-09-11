@@ -37,7 +37,7 @@
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
 <code><img height="48" src="https://seeklogo.com/images/S/serverless-logo-314C5E0CB4-seeklogo.com.png"></code>
 
-### :soon: Learning
+### :soon: Learning .. when a I have a time ..
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png"></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png"></code>
 <code><img height="48" src="https://mentocta.com/wp-content/uploads/2016/08/datascience-1024x511.png"></code>
