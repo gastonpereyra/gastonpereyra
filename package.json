@@ -1,6 +1,6 @@
 {
   "name": "gastonpereyra",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "Profile",
   "main": "lib/generate.js",
   "scripts": {
@@ -20,14 +20,14 @@
   },
   "homepage": "https://github.com/gastonpereyra/gastonpereyra#readme",
   "devDependencies": {
-    "eslint": "^7.27.0",
+    "eslint": "^7.32.0",
     "eslint-config-airbnb-base": "^13.2.0",
-    "eslint-plugin-import": "^2.22.0"
+    "eslint-plugin-import": "^2.24.2"
   },
   "dependencies": {
-    "are-objects-equals": "^1.0.0",
-    "objects-normalizer": "^1.0.3",
-    "press-f": "^1.1.0",
-    "weather-arg": "^1.0.1"
+    "are-objects-equals": "^1.0.1",
+    "objects-normalizer": "^1.0.4",
+    "press-f": "^1.1.1",
+    "weather-arg": "^1.0.2"
   }
 }

@@ -5,6 +5,10 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/en/1.0.0/)
 and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.html).
 
+## [2.2.1] 2021-09-11
+### Updated
+- Dependencies
+
 ## [2.2.0] - 2021-05-22
 ### Added
 - Multiple fantasy places with Random Weathers, for backup if SMN fails.
