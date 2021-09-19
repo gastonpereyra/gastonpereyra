@@ -1,5 +1,7 @@
 # More About Me!
 
+![GH-Banner](https://user-images.githubusercontent.com/39351850/133913399-254b182e-2909-49c5-a424-dc27690f39b1.png)
+
 ---
 
 ## :school: Studies
