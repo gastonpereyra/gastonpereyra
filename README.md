@@ -7,7 +7,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock7: Mina Clavero (Córdoba) :earth_americas: | 23.4ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 13 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock12: Eduardo Castex (La Pampa) :earth_americas: | 11.8ºC :green_heart: | Foggy :foggy: | 7 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
