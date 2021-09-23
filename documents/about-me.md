@@ -7,7 +7,7 @@
 ## :school: Studies
 ### :black_square_button: Informatics Engineering (some years)
 
-<code><img height="48" src="http://www.fi.uba.ar/sites/default/files/styles/banner_noticia/public/field/image/Nueva%20marca%20difusion%20-%20web.jpg?itok=6R2GdrP0"></code>
+<code><img height="48" src="https://confedi.org.ar/wp-content/uploads/2020/09/fiuba_logo.jpg"></code>
 
 ## :cloud: Working 
 ### :white_check_mark: Back-End Dev
