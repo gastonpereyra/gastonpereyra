@@ -7,7 +7,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock8: Ciudad Jardin Lomas del Palomar (Buenos Aires) :earth_americas: | 13.6ºC :green_heart: | Foggy :foggy: | 24 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock12: Bernardo de Irigoyen (Misiones) :earth_americas: | 25.7ºC :yellow_heart: | Sunny :sunny: | 3 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
