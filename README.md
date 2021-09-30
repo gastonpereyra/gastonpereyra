@@ -7,7 +7,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock12: General Villegas (Buenos Aires) :earth_americas: | 15.4ºC :green_heart: | Cloudy High :partly_sunny: | 18 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock8: Chacabuco (Buenos Aires) :earth_americas: | 18ºC :green_heart: | Sunny Overcast :partly_sunny: | 13 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
