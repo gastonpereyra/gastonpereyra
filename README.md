@@ -2,9 +2,9 @@
 <p align="center">... :computer: <i>Web-Developer</i> from <b>Argentina</b> :argentina: ...</p>
 
 <p align="center">
-    <img width="500" src="https://user-images.githubusercontent.com/39351850/133913399-254b182e-2909-49c5-a424-dc27690f39b1.png">
+    <img src="https://user-images.githubusercontent.com/39351850/133913399-254b182e-2909-49c5-a424-dc27690f39b1.png">
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api?username=gastonpereyra&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&include_all_commits=true&hide_title=true">
-    <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
+    <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=400">
 </p>
 
 > <p align="center">:clock8: Mina Clavero (Córdoba) :earth_americas: | 21.8ºC :yellow_heart: | Sunny :sunny: | 13 km/h :wind_chime: South-West :arrow_lower_left:</p>
