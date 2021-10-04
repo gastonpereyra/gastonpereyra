@@ -7,7 +7,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock1: Tandil (Buenos Aires) :earth_americas: | 5.4ºC :blue_heart: | Sunny :sunny: | 11 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock8: Capital Federal (Capital Federal) :earth_americas: | 7ºC :blue_heart: | Sunny :sunny: | 1 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
