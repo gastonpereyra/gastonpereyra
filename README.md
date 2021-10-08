@@ -7,7 +7,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock7: El Palomar (Buenos Aires) :earth_americas: | 10.7ºC :green_heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock12: Puerto Iguazú (Misiones) :earth_americas: | 21.9ºC :yellow_heart: | Foggy :foggy: | 5 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
