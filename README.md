@@ -7,7 +7,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock8: Intendente Alvear (La Pampa) :earth_americas: | 22.7ºC :yellow_heart: | Sunny :sunny: | 20 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock1: Reconquista (Santa Fe) :earth_americas: | 20.5ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 9 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
