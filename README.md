@@ -5,7 +5,7 @@
     <img width="500" src="https://user-images.githubusercontent.com/39351850/133913399-254b182e-2909-49c5-a424-dc27690f39b1.png">
 </p>
 <p align="center">
-    <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra?hideTitle=true">
+    <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra?hideTitle=true&width=500">
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
