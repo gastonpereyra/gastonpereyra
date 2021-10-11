@@ -9,7 +9,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock7: Venado Tuerto (Santa Fe) :earth_americas: | 17.2ºC :green_heart: | Rainy :umbrella: | 3 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock7: Ceres (Santa Fe) :earth_americas: | 14.6ºC :green_heart: | Sunny :sunny: | 9 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
