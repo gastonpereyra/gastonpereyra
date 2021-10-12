@@ -9,7 +9,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock12: San Javier (Santa Fe) :earth_americas: | 18.6ºC :green_heart: | Sunny :sunny: | 5 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock8: Base Marambio (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -8.4ºC :purple_heart: | Cloudy High :partly_sunny: | 20 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
