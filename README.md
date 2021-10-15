@@ -9,7 +9,7 @@
     <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
 </p>
 
-> <p align="center">:clock8: Trelew (Chubut) :earth_americas: | 6.7ºC :blue_heart: | Sunny :sunny: | 22 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock11: Capital Federal (Capital Federal) :earth_americas: | 11.6ºC :green_heart: | Cloudy High :partly_sunny: | 16 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
