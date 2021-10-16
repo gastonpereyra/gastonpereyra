@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra?hideTitle=true&width=500">
-    <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
+    <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
 > <p align="center">{{WEATHER_TIME}} {{WEATHER_PLACE}} ({{WEATHER_PROVINCE}}) :earth_americas: | {{WEATHER_TEMP}} {{WEATHER_TEMP_COLOR}} | {{WEATHER_DESC}} {{WEATHER_ICON}} | {{WEATHER_WIND}} km/h :wind_chime: {{WEATHER_WDIR}} {{WEATHER_WDIR_ICON}}</p>
