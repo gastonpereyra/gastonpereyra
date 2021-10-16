@@ -6,7 +6,7 @@
 </p>
 <p align="center">
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra?hideTitle=true&width=500">
-    <img src="https://github-readme-stats-git-master.gastonpereyra.vercel.app/api/top-langs/?username=gastonpereyra&layout=compact&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&hide_title=true&card_width=450">
+    <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
 > <p align="center">:clock12: Curuzú Cuatiá (Corrientes) :earth_americas: | 13ºC :green_heart: | Sunny :sunny: | 24 km/h :wind_chime: South-East :arrow_lower_right:</p>
