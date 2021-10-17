@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Santa Teresita (Buenos Aires) :earth_americas: | 13.6ºC :green_heart: | Foggy :foggy: | 14 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock8: La Paz (Entre Ríos) :earth_americas: | 23.5ºC :yellow_heart: | Cloudy High :partly_sunny: | 13 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
