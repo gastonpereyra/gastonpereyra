@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Humahuaca (Jujuy) :earth_americas: | 24.4ºC :yellow_heart: | Foggy :foggy: | 24 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock11: Río Grande (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 3.8ºC :blue_heart: | Sunny :sunny: | 33 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
