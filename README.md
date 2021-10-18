@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: La Paz (Entre Ríos) :earth_americas: | 23.5ºC :yellow_heart: | Cloudy High :partly_sunny: | 13 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock1: Trelew (Chubut) :earth_americas: | 8.1ºC :blue_heart: | Sunny Overcast :partly_sunny: | 7 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
