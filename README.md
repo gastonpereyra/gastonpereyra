@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Rosario (Santa Fe) :earth_americas: | 19.8ºC :green_heart: | Sunny :sunny: | 7 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock8: Bell Ville (Córdoba) :earth_americas: | 12.3ºC :green_heart: | Sunny :sunny: | 5 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
