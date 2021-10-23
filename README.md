@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: San Luis (San Luis) :earth_americas: | 16.2ºC :green_heart: | Sunny Overcast :partly_sunny: | 29 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock5: Tostado (Santa Fe) :earth_americas: | 18.7ºC :green_heart: | Thunderstorm :zap: | 33 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
