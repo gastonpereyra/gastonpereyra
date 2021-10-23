@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock5: Villa Reynolds (San Luis) :earth_americas: | 13.2ºC :green_heart: | Foggy :foggy: | 11 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock8: General Acha (La Pampa) :earth_americas: | 21.7ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 22 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
