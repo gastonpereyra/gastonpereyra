@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: San Miguel de Tucumán (Tucumán) :earth_americas: | 15.3ºC :green_heart: | Sunny :sunny: | 11 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock12: Aguilares (Tucumán) :earth_americas: | 21ºC :yellow_heart: | Sunny :sunny: | 9 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
