@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: General Acha (La Pampa) :earth_americas: | 21.7ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 22 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock12: San Pedro (Buenos Aires) :earth_americas: | 16.1ºC :green_heart: | Sunny :sunny: | 7 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
