@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: El Palomar (Buenos Aires) :earth_americas: | 25.1ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 27 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock12: Cosquin (Córdoba) :earth_americas: | 18ºC :green_heart: | Sunny :sunny: | 18 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
