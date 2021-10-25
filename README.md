@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Olavarría (Buenos Aires) :earth_americas: | 17.2ºC :green_heart: | Foggy :foggy: | 18 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock7: Villa María (Córdoba) :earth_americas: | 36.5ºC :heart: | Sunny :sunny: | 9 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
