@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Alta Gracia (Córdoba) :earth_americas: | 28.1ºC :yellow_heart: | Sunny :sunny: | 5 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock7: Las Lomitas (Formosa) :earth_americas: | 36.1ºC :heart: | Sunny :sunny: | 5 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
