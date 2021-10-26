@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Villa María (Córdoba) :earth_americas: | 36.5ºC :heart: | Sunny :sunny: | 9 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: Bernardo de Irigoyen (Misiones) :earth_americas: | 19.6ºC :green_heart: | Sunny :sunny: | 3 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
