@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Perico (Jujuy) :earth_americas: | 19.8ºC :green_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock12: Colón (Entre Ríos) :earth_americas: | 26.8ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 18 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
