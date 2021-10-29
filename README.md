@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock11: Concepción del Uruguay (Entre Ríos) :earth_americas: | 20.4ºC :yellow_heart: | Sunny :sunny: | 14 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock8: Esquel (Chubut) :earth_americas: | 15.7ºC :green_heart: | Sunny Overcast :partly_sunny: | 24 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
