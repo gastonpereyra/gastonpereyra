@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Aeroparque Buenos Aires (Capital Federal) :earth_americas: | 27ºC :yellow_heart: | Sunny :sunny: | 22 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock1: Capital Federal (Capital Federal) :earth_americas: | 25.6ºC :yellow_heart: | Sunny :sunny: | 3 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
