@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock11: Chacabuco (Buenos Aires) :earth_americas: | 12.2ºC :green_heart: | Rainy :umbrella: | 16 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock8: Tafí Viejo (Tucumán) :earth_americas: | 16.5ºC :green_heart: | Rainy :umbrella: | 13 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
