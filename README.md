@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Pigüé (Buenos Aires) :earth_americas: | 10.9ºC :green_heart: | Foggy :foggy: | 27 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock7: Caleta Olivia (Santa Cruz) :earth_americas: | 5.9ºC :blue_heart: | Cloudy High :partly_sunny: | 13 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
