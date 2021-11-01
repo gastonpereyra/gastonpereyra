@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Rosario (Santa Fe) :earth_americas: | 25.7ºC :yellow_heart: | Foggy :foggy: | 22 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock12: Pigüé (Buenos Aires) :earth_americas: | 10.9ºC :green_heart: | Foggy :foggy: | 27 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
