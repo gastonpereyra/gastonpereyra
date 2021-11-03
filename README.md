@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Apóstoles (Misiones) :earth_americas: | 22.2ºC :yellow_heart: | Cloudy High :partly_sunny: | 29 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock12: Tolhuin (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 13ºC :green_heart: | Sunny Overcast :partly_sunny: | 18 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
