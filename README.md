@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Balcarce (Buenos Aires) :earth_americas: | 19.3ºC :green_heart: | Cloudy High :partly_sunny: | 24 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock11: Chamical (La Rioja) :earth_americas: | 27ºC :yellow_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
