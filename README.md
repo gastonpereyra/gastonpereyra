@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock11: Chamical (La Rioja) :earth_americas: | 27ºC :yellow_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock7: Eduardo Castex (La Pampa) :earth_americas: | 17.1ºC :green_heart: | Cloudy High :partly_sunny: | 7 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
