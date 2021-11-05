@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Termas de Río Hondo (Santiago del Estero) :earth_americas: | 32.8ºC :heart: | Cloudy High :partly_sunny: | 14 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock1: Aeroparque Buenos Aires (Capital Federal) :earth_americas: | 21.8ºC :yellow_heart: | Cloudy High :partly_sunny: | 18 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
