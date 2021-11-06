@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Cruz del Eje (Córdoba) :earth_americas: | 15ºC :green_heart: | Foggy :foggy: | 16 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock12: General José de San Martín (Chaco) :earth_americas: | 21.7ºC :yellow_heart: | Foggy :foggy: | 5 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
