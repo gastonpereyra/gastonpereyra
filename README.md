@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Tolhuin (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 9.1ºC :blue_heart: | Cloudy High :partly_sunny: | 7 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock12: Marcos Juárez (Córdoba) :earth_americas: | 14.1ºC :green_heart: | Sunny Overcast :partly_sunny: | 14 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
