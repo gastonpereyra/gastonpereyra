@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Tolhuin (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 6.4ºC :blue_heart: | Rainy :umbrella: | 11 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock7: Perico (Jujuy) :earth_americas: | 15.2ºC :green_heart: | Foggy :foggy: | 9 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
