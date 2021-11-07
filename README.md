@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Perico (Jujuy) :earth_americas: | 15.2ºC :green_heart: | Foggy :foggy: | 9 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock12: Base San Martín (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -0.3ºC :purple_heart: | Foggy :foggy: | 7 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
