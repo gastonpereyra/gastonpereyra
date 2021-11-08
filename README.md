@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Sunchales (Santa Fe) :earth_americas: | 21.2ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock8: San Cristóbal (Santa Fe) :earth_americas: | 16.6ºC :green_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
