@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: San Cristóbal (Santa Fe) :earth_americas: | 16.6ºC :green_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock12: Paso de Indios (Chubut) :earth_americas: | 14.4ºC :green_heart: | Sunny Overcast :partly_sunny: | 13 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
