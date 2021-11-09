@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Alta Gracia (Córdoba) :earth_americas: | 17.6ºC :green_heart: | Sunny Overcast :partly_sunny: | 1 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock12: Cipolletti (Río Negro) :earth_americas: | 14.8ºC :green_heart: | Cloudy High :partly_sunny: | 16 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
