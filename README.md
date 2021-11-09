@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Santiago del Estero (Santiago del Estero) :earth_americas: | 29.8ºC :yellow_heart: | Foggy :foggy: | 9 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock12: Cosquin (Córdoba) :earth_americas: | 18.8ºC :green_heart: | Sunny :sunny: | 11 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
