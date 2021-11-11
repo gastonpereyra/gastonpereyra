@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Andalgalá (Catamarca) :earth_americas: | 22.6ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 24 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock8: Trelew (Chubut) :earth_americas: | 10.8ºC :green_heart: | Sunny Overcast :partly_sunny: | 7 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
