@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Villa María (Córdoba) :earth_americas: | 27.5ºC :yellow_heart: | Sunny :sunny: | 18 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: Coronel Moldes (Córdoba) :earth_americas: | 22.4ºC :yellow_heart: | Sunny :sunny: | 25 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
