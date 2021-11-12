@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: El Palomar (Buenos Aires) :earth_americas: | 19.1ºC :green_heart: | Sunny Overcast :partly_sunny: | 22 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock8: Pinamar (Buenos Aires) :earth_americas: | 18.9ºC :green_heart: | Foggy :foggy: | 18 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
