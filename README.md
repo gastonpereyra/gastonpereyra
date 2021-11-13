@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Ciudad Jardin Lomas del Palomar (Buenos Aires) :earth_americas: | 17.8ºC :green_heart: | Sunny :sunny: | 24 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock12: Caleta Olivia (Santa Cruz) :earth_americas: | 17.5ºC :green_heart: | Sunny Overcast :partly_sunny: | 9 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
