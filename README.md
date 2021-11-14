@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Las Flores (Buenos Aires) :earth_americas: | 17.4ºC :green_heart: | Sunny Overcast :partly_sunny: | 14 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock8: Avellaneda (Buenos Aires) :earth_americas: | 26.2ºC :yellow_heart: | Sunny :sunny: | 11 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
