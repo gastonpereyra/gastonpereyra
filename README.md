@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Tres Arroyos (Buenos Aires) :earth_americas: | 19.8ºC :green_heart: | Foggy :foggy: | 9 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock8: Caleta Olivia (Santa Cruz) :earth_americas: | 16.1ºC :green_heart: | Sunny Overcast :partly_sunny: | 9 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
