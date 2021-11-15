@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Avellaneda (Buenos Aires) :earth_americas: | 26.2ºC :yellow_heart: | Sunny :sunny: | 11 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock1: Andalgalá (Catamarca) :earth_americas: | 25ºC :yellow_heart: | Sunny :sunny: | 24 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
