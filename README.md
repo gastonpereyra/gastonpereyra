@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: San Miguel (Buenos Aires) :earth_americas: | 14.2ºC :green_heart: | Foggy :foggy: | 33 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock8: Banfield (Buenos Aires) :earth_americas: | 19.3ºC :green_heart: | Cloudy High :partly_sunny: | 18 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
