@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Caleta Olivia (Santa Cruz) :earth_americas: | 16.1ºC :green_heart: | Sunny Overcast :partly_sunny: | 9 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock1: Río Grande (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 7.2ºC :blue_heart: | Cloudy High :partly_sunny: | 37 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
