@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Villa Ángela (Chaco) :earth_americas: | 17.2ºC :green_heart: | Foggy :foggy: | 25 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock8: Eduardo Castex (La Pampa) :earth_americas: | 6.5ºC :blue_heart: | Sunny :sunny: | 3 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
