@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: El Trebol (Santa Fe) :earth_americas: | 14ºC :green_heart: | Sunny :sunny: | 9 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock7: Capital Federal (Capital Federal) :earth_americas: | 20.5ºC :yellow_heart: | Sunny :sunny: | 13 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
