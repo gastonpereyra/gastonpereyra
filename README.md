@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Pirané (Formosa) :earth_americas: | 27.5ºC :yellow_heart: | Sunny :sunny: | 16 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock12: Uspallata (Mendoza) :earth_americas: | 18.2ºC :green_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
