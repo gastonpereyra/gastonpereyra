@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Esquel (Chubut) :earth_americas: | 13.8ºC :green_heart: | Cloudy High :partly_sunny: | 22 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock7: El Calafate (Santa Cruz) :earth_americas: | 16.2ºC :green_heart: | Cloudy High :partly_sunny: | 59 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
