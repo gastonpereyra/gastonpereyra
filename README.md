@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Banfield (Buenos Aires) :earth_americas: | 22.1ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 13 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock12: La Rioja (La Rioja) :earth_americas: | 25.2ºC :yellow_heart: | Sunny :sunny: | 13 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
