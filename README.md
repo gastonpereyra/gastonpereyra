@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Corrientes (Corrientes) :earth_americas: | 20.8ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 5 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock8: Banfield (Buenos Aires) :earth_americas: | 22.1ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 13 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
