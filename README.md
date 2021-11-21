@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: La Rioja (La Rioja) :earth_americas: | 25.2ºC :yellow_heart: | Sunny :sunny: | 13 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock8: Quilmes (Buenos Aires) :earth_americas: | 32.1ºC :heart: | Sunny :sunny: | 22 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
