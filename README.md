@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: San Cristóbal (Santa Fe) :earth_americas: | 28.8ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 9 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock8: Formosa (Formosa) :earth_americas: | 35.2ºC :heart: | Sunny Overcast :partly_sunny: | 9 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
