@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Balcarce (Buenos Aires) :earth_americas: | 10.7ºC :green_heart: | Sunny Overcast :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock12: San Cristóbal (Santa Fe) :earth_americas: | 28.8ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 9 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
