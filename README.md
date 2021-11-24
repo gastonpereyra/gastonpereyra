@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Sauce Viejo (Santa Fe) :earth_americas: | 23.9ºC :yellow_heart: | Sunny :sunny: | 25 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock8: Zapala (Neuquén) :earth_americas: | 19.4ºC :green_heart: | Sunny Overcast :partly_sunny: | 53 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
