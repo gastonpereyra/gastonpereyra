@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Chacabuco (Buenos Aires) :earth_americas: | 19.6ºC :green_heart: | Foggy :foggy: | 29 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: San Pedro (Buenos Aires) :earth_americas: | 18.4ºC :green_heart: | Foggy :foggy: | 29 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
