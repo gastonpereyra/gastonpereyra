@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Zapala (Neuquén) :earth_americas: | 19.4ºC :green_heart: | Sunny Overcast :partly_sunny: | 53 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock1: Puerto Iguazú (Misiones) :earth_americas: | 26.6ºC :yellow_heart: | Sunny :sunny: | 7 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
