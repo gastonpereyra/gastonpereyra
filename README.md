@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Villa Huidobro (Córdoba) :earth_americas: | 15.7ºC :green_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock12: Río Gallegos (Santa Cruz) :earth_americas: | 10.3ºC :green_heart: | Sunny Overcast :partly_sunny: | 20 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
