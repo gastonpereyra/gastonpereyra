@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Pirané (Formosa) :earth_americas: | 24.8ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 1 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock8: Villa Huidobro (Córdoba) :earth_americas: | 15.7ºC :green_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
