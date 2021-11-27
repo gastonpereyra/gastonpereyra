@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Tigre (Buenos Aires) :earth_americas: | 25.4ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 24 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock12: Bahía Blanca (Buenos Aires) :earth_americas: | 25ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 27 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
