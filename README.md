@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Bahía Blanca (Buenos Aires) :earth_americas: | 25ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 27 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock8: Posadas (Misiones) :earth_americas: | 19.2ºC :green_heart: | Sunny :sunny: | 3 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
