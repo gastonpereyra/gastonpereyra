@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: San Javier (Santa Fe) :earth_americas: | 16.8ºC :green_heart: | Foggy :foggy: | 22 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock12: San Carlos de Bolívar (Buenos Aires) :earth_americas: | 16ºC :green_heart: | Rainy :umbrella: | 3 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
