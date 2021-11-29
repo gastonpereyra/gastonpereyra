@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Las Lomitas (Formosa) :earth_americas: | 23.3ºC :yellow_heart: | Sunny :sunny: | 5 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock7: Ciudad Evita (Buenos Aires) :earth_americas: | 17.8ºC :green_heart: | Foggy :foggy: | 22 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
