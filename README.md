@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: San José de Jachal (San Juan) :earth_americas: | 23.8ºC :yellow_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock7: Puerto Madryn (Chubut) :earth_americas: | 28.2ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 33 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
