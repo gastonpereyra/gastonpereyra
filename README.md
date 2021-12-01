@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Salta (Salta) :earth_americas: | 21.8ºC :yellow_heart: | Sunny :sunny: | 7 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock8: Villa Ángela (Chaco) :earth_americas: | 29.9ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 13 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
