@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: La Plata (Buenos Aires) :earth_americas: | 11.8ºC :green_heart: | Sunny :sunny: | 3 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock12: Salta (Salta) :earth_americas: | 21.8ºC :yellow_heart: | Sunny :sunny: | 7 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
