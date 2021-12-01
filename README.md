@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Ciudad Evita (Buenos Aires) :earth_americas: | 24ºC :yellow_heart: | Sunny :sunny: | 13 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock8: La Plata (Buenos Aires) :earth_americas: | 11.8ºC :green_heart: | Sunny :sunny: | 3 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
