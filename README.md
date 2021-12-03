@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: San Andrés (Buenos Aires) :earth_americas: | 20.1ºC :yellow_heart: | Sunny :sunny: | 9 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: 9 de Julio (Buenos Aires) :earth_americas: | 17.4ºC :green_heart: | Rainy :umbrella: | 7 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
