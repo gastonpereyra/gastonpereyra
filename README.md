@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: San Javier (Santa Fe) :earth_americas: | 30.1ºC :heart: | Sunny :sunny: | 16 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock1: Andalgalá (Catamarca) :earth_americas: | 29.6ºC :yellow_heart: | Sunny :sunny: | 24 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
