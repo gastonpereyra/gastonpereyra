@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Alta Gracia (Córdoba) :earth_americas: | 22.2ºC :yellow_heart: | Sunny :sunny: | 7 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock12: Bell Ville (Córdoba) :earth_americas: | 24.6ºC :yellow_heart: | Sunny :sunny: | 20 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
