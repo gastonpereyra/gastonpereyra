@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Base Marambio (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 2.6ºC :blue_heart: | Foggy :foggy: | 66 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock8: Termas de Río Hondo (Santiago del Estero) :earth_americas: | 29.4ºC :yellow_heart: | Foggy :foggy: | 11 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
