@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Córdoba (Córdoba) :earth_americas: | 18.2ºC :green_heart: | Foggy :foggy: | 1 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock8: Presidencia Roque Sáenz Peña (Chaco) :earth_americas: | 33.9ºC :heart: | Sunny Overcast :partly_sunny: | 16 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
