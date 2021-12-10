@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Villa Gesell (Buenos Aires) :earth_americas: | 18.4ºC :green_heart: | Foggy :foggy: | 11 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock8: Ceres (Santa Fe) :earth_americas: | 21.3ºC :yellow_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
