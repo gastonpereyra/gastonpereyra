@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: General Acha (La Pampa) :earth_americas: | 18.8ºC :green_heart: | Sunny Overcast :partly_sunny: | 13 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock8: Paraná (Entre Ríos) :earth_americas: | 17.9ºC :green_heart: | Sunny :sunny: | 3 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
