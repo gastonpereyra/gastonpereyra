@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Mina Clavero (Córdoba) :earth_americas: | 22.5ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock12: Alta Gracia (Córdoba) :earth_americas: | 18.4ºC :green_heart: | Foggy :foggy: | 20 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
