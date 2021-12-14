@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Santa María (Catamarca) :earth_americas: | 20.3ºC :yellow_heart: | Foggy :foggy: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock12: San Antonio de Areco (Buenos Aires) :earth_americas: | 23.2ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 9 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
