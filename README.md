@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Campo de Mayo (Buenos Aires) :earth_americas: | 27ºC :yellow_heart: | Foggy :foggy: | 18 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock1: San Cristóbal (Santa Fe) :earth_americas: | 23ºC :yellow_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
