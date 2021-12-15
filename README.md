@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Las Lomitas (Formosa) :earth_americas: | 27.4ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 11 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock8: Santa María (Catamarca) :earth_americas: | 24.3ºC :yellow_heart: | Foggy :foggy: | 7 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
