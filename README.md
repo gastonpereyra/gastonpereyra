@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: La Paz (Entre Ríos) :earth_americas: | 19.5ºC :green_heart: | Sunny Overcast :partly_sunny: | 13 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock7: Necochea (Buenos Aires) :earth_americas: | 18.6ºC :green_heart: | Cloudy High :partly_sunny: | 11 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
