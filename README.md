@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Añatuya (Santiago del Estero) :earth_americas: | 26.8ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 11 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock8: Miramar (Buenos Aires) :earth_americas: | 10.4ºC :green_heart: | Cloudy High :partly_sunny: | 3 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
