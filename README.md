@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Aeroparque Buenos Aires (Capital Federal) :earth_americas: | 18.2ºC :green_heart: | Sunny Overcast :partly_sunny: | 18 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock12: Laboulaye (Córdoba) :earth_americas: | 21.3ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 11 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
