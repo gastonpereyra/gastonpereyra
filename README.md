@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Villa Reynolds (San Luis) :earth_americas: | 27.2ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 14 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock8: Tolhuin (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 6.4ºC :blue_heart: | Rainy :umbrella: | 55 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
