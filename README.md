@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Rivadavia (Salta) :earth_americas: | 34ºC :heart: | Sunny :sunny: | 3 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock8: Sunchales (Santa Fe) :earth_americas: | 22.6ºC :yellow_heart: | Cloudy High :partly_sunny: | 3 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
