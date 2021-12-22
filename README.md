@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: San Pedro (Buenos Aires) :earth_americas: | 33.2ºC :heart: | Sunny Overcast :partly_sunny: | 11 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock1: San Fernando del Valle de Catamarca (Catamarca) :earth_americas: | 30.2ºC :heart: | Cloudy High :partly_sunny: | 20 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
