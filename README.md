@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: San Fernando del Valle de Catamarca (Catamarca) :earth_americas: | 30.2ºC :heart: | Cloudy High :partly_sunny: | 20 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock8: San Carlos de Bariloche (Río Negro) :earth_americas: | 8.6ºC :blue_heart: | Sunny :sunny: | 9 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
