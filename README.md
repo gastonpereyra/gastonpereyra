@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Merlo (San Luis) :earth_americas: | 23.1ºC :yellow_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock8: Eduardo Castex (La Pampa) :earth_americas: | 33.1ºC :heart: | Sunny Overcast :partly_sunny: | 22 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
