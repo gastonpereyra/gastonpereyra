@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock11: Concepción del Uruguay (Entre Ríos) :earth_americas: | 22.5ºC :yellow_heart: | Sunny :sunny: | 18 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock7: Mendoza (Mendoza) :earth_americas: | 31.8ºC :heart: | Sunny :sunny: | 9 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
