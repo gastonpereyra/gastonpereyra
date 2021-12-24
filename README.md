@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Resistencia (Chaco) :earth_americas: | 15ºC :green_heart: | Sunny :sunny: | 3 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock11: Concepción del Uruguay (Entre Ríos) :earth_americas: | 22.5ºC :yellow_heart: | Sunny :sunny: | 18 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
