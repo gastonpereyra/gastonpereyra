@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Eduardo Castex (La Pampa) :earth_americas: | 33.1ºC :heart: | Sunny Overcast :partly_sunny: | 22 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: Gobernador Gregores (Santa Cruz) :earth_americas: | 21ºC :yellow_heart: | Cloudy High :partly_sunny: | 27 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
