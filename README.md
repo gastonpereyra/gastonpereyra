@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Zárate (Buenos Aires) :earth_americas: | 31.5ºC :heart: | Sunny :sunny: | 9 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock12: Base Carlini (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 1.9ºC :blue_heart: | Rainy :umbrella: | 37 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
