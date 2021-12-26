@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Base Carlini (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 1.9ºC :blue_heart: | Rainy :umbrella: | 37 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock7: San Fernando del Valle de Catamarca (Catamarca) :earth_americas: | 29.4ºC :yellow_heart: | Foggy :foggy: | 18 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
