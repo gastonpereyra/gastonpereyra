@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Villa Reynolds (San Luis) :earth_americas: | 17.9ºC :green_heart: | Cloudy High :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock12: Coronel Suarez (Buenos Aires) :earth_americas: | 19.8ºC :green_heart: | Foggy :foggy: | 9 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
