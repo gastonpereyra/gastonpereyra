@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Mendoza (Mendoza) :earth_americas: | 33.5ºC :heart: | Foggy :foggy: | 3 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock1: San Fernando del Valle de Catamarca (Catamarca) :earth_americas: | 30.9ºC :heart: | Cloudy High :partly_sunny: | 13 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
