@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: San Rafael (Mendoza) :earth_americas: | 22.4ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 5 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock12: Base Marambio (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -1.3ºC :purple_heart: | Snowfall :snowflake: | 9 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
