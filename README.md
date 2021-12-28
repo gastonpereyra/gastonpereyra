@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Base Marambio (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -1.3ºC :purple_heart: | Snowfall :snowflake: | 9 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock8: Andalgalá (Catamarca) :earth_americas: | 33.4ºC :heart: | Sunny Overcast :partly_sunny: | 37 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
