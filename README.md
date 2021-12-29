@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Andalgalá (Catamarca) :earth_americas: | 33.4ºC :heart: | Sunny Overcast :partly_sunny: | 37 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: Chilecito (La Rioja) :earth_americas: | 27.6ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 9 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
