@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Laboulaye (Córdoba) :earth_americas: | 19.8ºC :green_heart: | Sunny Overcast :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock12: Clorinda (Formosa) :earth_americas: | 27.8ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 9 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
