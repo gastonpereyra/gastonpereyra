@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Chilecito (La Rioja) :earth_americas: | 27.6ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 9 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock8: Laboulaye (Córdoba) :earth_americas: | 19.8ºC :green_heart: | Sunny Overcast :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
