@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Miramar (Buenos Aires) :earth_americas: | 19.5ºC :green_heart: | Sunny Overcast :partly_sunny: | 14 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock8: Metán (Salta) :earth_americas: | 20.7ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
