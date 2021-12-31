@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Olavarría (Buenos Aires) :earth_americas: | 30.2ºC :heart: | Cloudy High :partly_sunny: | 20 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock12: Miramar (Buenos Aires) :earth_americas: | 19.5ºC :green_heart: | Sunny Overcast :partly_sunny: | 14 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
