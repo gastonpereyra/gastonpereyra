@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: El Palomar (Buenos Aires) :earth_americas: | 33ºC :heart: | Sunny Overcast :partly_sunny: | 13 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock12: Añatuya (Santiago del Estero) :earth_americas: | 36.7ºC :heart: | Sunny :sunny: | 11 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
