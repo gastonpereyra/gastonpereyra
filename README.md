@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Mar del Plata (Buenos Aires) :earth_americas: | 18.3ºC :green_heart: | Sunny Overcast :partly_sunny: | 18 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock12: San Miguel (Buenos Aires) :earth_americas: | 24.2ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
