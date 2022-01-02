@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Bell Ville (Córdoba) :earth_americas: | 19.9ºC :green_heart: | Sunny Overcast :partly_sunny: | 7 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock8: Mar del Plata (Buenos Aires) :earth_americas: | 18.3ºC :green_heart: | Sunny Overcast :partly_sunny: | 18 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
