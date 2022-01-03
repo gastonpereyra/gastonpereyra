@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Apóstoles (Misiones) :earth_americas: | 31.1ºC :heart: | Sunny Overcast :partly_sunny: | 16 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock12: Perico (Jujuy) :earth_americas: | 32.6ºC :heart: | Foggy :foggy: | 9 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
