@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Perico (Jujuy) :earth_americas: | 32.6ºC :heart: | Foggy :foggy: | 9 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock7: Comodoro Rivadavia (Chubut) :earth_americas: | 13.4ºC :green_heart: | Cloudy High :partly_sunny: | 14 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
