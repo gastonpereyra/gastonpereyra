@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Comodoro Rivadavia (Chubut) :earth_americas: | 13.4ºC :green_heart: | Cloudy High :partly_sunny: | 14 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock12: Maipú (Buenos Aires) :earth_americas: | 27.6ºC :yellow_heart: | Sunny :sunny: | 11 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
