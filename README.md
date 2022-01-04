@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: San Carlos de Bolívar (Buenos Aires) :earth_americas: | 31.5ºC :heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock1: Capital Federal (Capital Federal) :earth_americas: | 28.4ºC :yellow_heart: | Sunny :sunny: | 5 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
