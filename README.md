@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Capital Federal (Capital Federal) :earth_americas: | 28.4ºC :yellow_heart: | Sunny :sunny: | 5 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock8: Córdoba (Córdoba) :earth_americas: | 20.2ºC :yellow_heart: | Foggy :foggy: | 9 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
