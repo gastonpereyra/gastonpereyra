@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Palpala (Jujuy) :earth_americas: | 19.8ºC :green_heart: | Foggy :foggy: | 11 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock12: Avellaneda (Buenos Aires) :earth_americas: | 20.6ºC :yellow_heart: | Sunny :sunny: | 20 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
