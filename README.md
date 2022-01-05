@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock11: Marcos Juárez (Córdoba) :earth_americas: | 23.8ºC :yellow_heart: | Sunny :sunny: | 13 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock8: Palpala (Jujuy) :earth_americas: | 19.8ºC :green_heart: | Foggy :foggy: | 11 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
