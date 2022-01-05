@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock6: Gobernador Gregores (Santa Cruz) :earth_americas: | 15ºC :green_heart: | Foggy :foggy: | 9 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock11: Marcos Juárez (Córdoba) :earth_americas: | 23.8ºC :yellow_heart: | Sunny :sunny: | 13 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
