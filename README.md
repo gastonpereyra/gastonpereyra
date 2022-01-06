@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Río Tercero (Córdoba) :earth_americas: | 30.4ºC :heart: | Sunny Overcast :partly_sunny: | 9 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock1: Ushuaia (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 9.3ºC :blue_heart: | Sunny Overcast :partly_sunny: | 29 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
