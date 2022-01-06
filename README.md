@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Ushuaia (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 9.3ºC :blue_heart: | Sunny Overcast :partly_sunny: | 29 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock8: Malargüe (Mendoza) :earth_americas: | 14ºC :green_heart: | Sunny :sunny: | 5 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
