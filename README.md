@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Villa Regina (Río Negro) :earth_americas: | 21ºC :yellow_heart: | Foggy :foggy: | 9 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock8: La Rioja (La Rioja) :earth_americas: | 24ºC :yellow_heart: | Sunny :sunny: | 13 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
