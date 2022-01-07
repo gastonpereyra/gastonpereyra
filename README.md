@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Chapelco (Neuquén) :earth_americas: | 16.6ºC :green_heart: | Sunny :sunny: | 7 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock8: Villa Huidobro (Córdoba) :earth_americas: | 28.5ºC :yellow_heart: | Cloudy High :partly_sunny: | 16 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
