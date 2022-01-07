@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Goya (Corrientes) :earth_americas: | 32.7ºC :heart: | Sunny Overcast :partly_sunny: | 24 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock12: Villa Regina (Río Negro) :earth_americas: | 21ºC :yellow_heart: | Foggy :foggy: | 9 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
