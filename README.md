@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: San Martín (Mendoza) :earth_americas: | 28.9ºC :yellow_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock8: Bell Ville (Córdoba) :earth_americas: | 19.1ºC :green_heart: | Cloudy High :partly_sunny: | 13 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
