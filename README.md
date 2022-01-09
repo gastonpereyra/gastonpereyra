@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Posadas (Misiones) :earth_americas: | 21ºC :yellow_heart: | Cloudy High :partly_sunny: | 24 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: Intendente Alvear (La Pampa) :earth_americas: | 27.6ºC :yellow_heart: | Sunny :sunny: | 16 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
