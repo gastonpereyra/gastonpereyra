@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Tafí Viejo (Tucumán) :earth_americas: | 29.5ºC :yellow_heart: | Cloudy High :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock8: Tigre (Buenos Aires) :earth_americas: | 21.4ºC :yellow_heart: | Sunny :sunny: | 11 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
