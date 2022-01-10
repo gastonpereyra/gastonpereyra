@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: El Calafate (Santa Cruz) :earth_americas: | 17.2ºC :green_heart: | Cloudy High :partly_sunny: | 44 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock7: Miramar (Buenos Aires) :earth_americas: | 31.5ºC :heart: | Sunny :sunny: | 22 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
