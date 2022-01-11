@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Alta Gracia (Córdoba) :earth_americas: | 24.6ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 1 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: Añatuya (Santiago del Estero) :earth_americas: | 30.7ºC :heart: | Sunny Overcast :partly_sunny: | 11 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
