@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Miramar (Buenos Aires) :earth_americas: | 31.5ºC :heart: | Sunny :sunny: | 22 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock12: Balcarce (Buenos Aires) :earth_americas: | 24.6ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 5 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
