@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Zárate (Buenos Aires) :earth_americas: | 40.4ºC :heart: | Sunny :sunny: | 9 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock12: Zapala (Neuquén) :earth_americas: | 26.4ºC :yellow_heart: | Sunny :sunny: | 24 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
