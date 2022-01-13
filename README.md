@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: José María Ezeiza (Buenos Aires) :earth_americas: | 22.1ºC :yellow_heart: | Sunny :sunny: | 13 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock12: Bahía Blanca (Buenos Aires) :earth_americas: | 33.9ºC :heart: | Sunny Overcast :partly_sunny: | 42 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
