@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Bahía Blanca (Buenos Aires) :earth_americas: | 33.9ºC :heart: | Sunny Overcast :partly_sunny: | 42 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock8: La Rioja (La Rioja) :earth_americas: | 44ºC :heart: | Sunny :sunny: | 25 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
