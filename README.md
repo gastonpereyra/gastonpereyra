@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Mar del Plata (Buenos Aires) :earth_americas: | 23.9ºC :yellow_heart: | Sunny :sunny: | 25 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock12: Pilar Observatorio (Córdoba) :earth_americas: | 32.4ºC :heart: | Sunny :sunny: | 3 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
