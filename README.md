@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: La Rioja (La Rioja) :earth_americas: | 44ºC :heart: | Sunny :sunny: | 25 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock1: Goya (Corrientes) :earth_americas: | 32.3ºC :heart: | Sunny :sunny: | 16 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
