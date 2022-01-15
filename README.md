@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: La Carlota (Córdoba) :earth_americas: | 40.5ºC :heart: | Sunny :sunny: | 18 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: Las Lomitas (Formosa) :earth_americas: | 33.6ºC :heart: | Sunny Overcast :partly_sunny: | 7 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
