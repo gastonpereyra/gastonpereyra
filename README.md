@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Maquinchao (Río Negro) :earth_americas: | 16.3ºC :green_heart: | Sunny Overcast :partly_sunny: | 14 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock7: La Rioja (La Rioja) :earth_americas: | 44.2ºC :heart: | Sunny Overcast :partly_sunny: | 22 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
