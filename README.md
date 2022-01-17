@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Metán (Salta) :earth_americas: | 23.1ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock7: Puerto Argentino (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 6.5ºC :blue_heart: | Foggy :foggy: | 33 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
