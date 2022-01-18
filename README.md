@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Puerto Argentino (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 6.5ºC :blue_heart: | Foggy :foggy: | 33 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock12: Coronel Pringles (Buenos Aires) :earth_americas: | 16.2ºC :green_heart: | Cloudy High :partly_sunny: | 25 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
