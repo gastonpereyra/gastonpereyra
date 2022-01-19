@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Eduardo Castex (La Pampa) :earth_americas: | 14.5ºC :green_heart: | Rainy :umbrella: | 20 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock12: San Rafael (Mendoza) :earth_americas: | 14.2ºC :green_heart: | Foggy :foggy: | 20 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
