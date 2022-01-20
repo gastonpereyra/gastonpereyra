@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: San Carlos de Bariloche (Río Negro) :earth_americas: | 13.1ºC :green_heart: | Foggy :foggy: | 18 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock6: Villa Ángela (Chaco) :earth_americas: | 35.1ºC :heart: | Cloudy High :partly_sunny: | 13 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
