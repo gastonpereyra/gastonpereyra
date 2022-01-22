@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Eduardo Castex (La Pampa) :earth_americas: | 23.5ºC :yellow_heart: | Foggy :foggy: | 25 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock12: Balcarce (Buenos Aires) :earth_americas: | 22.1ºC :yellow_heart: | Cloudy High :partly_sunny: | 11 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
