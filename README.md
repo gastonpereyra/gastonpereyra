@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Metán (Salta) :earth_americas: | 23ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock7: Tigre (Buenos Aires) :earth_americas: | 26.6ºC :yellow_heart: | Cloudy High :partly_sunny: | 29 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
