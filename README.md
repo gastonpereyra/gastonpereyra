@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Balcarce (Buenos Aires) :earth_americas: | 22.1ºC :yellow_heart: | Cloudy High :partly_sunny: | 11 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock8: Frias (Santiago del Estero) :earth_americas: | 29.2ºC :yellow_heart: | Sunny :sunny: | 22 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
