@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Frias (Santiago del Estero) :earth_americas: | 29.2ºC :yellow_heart: | Sunny :sunny: | 22 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: Metán (Salta) :earth_americas: | 23ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
