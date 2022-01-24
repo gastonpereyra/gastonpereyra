@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Puerto San Julián (Santa Cruz) :earth_americas: | 16.6ºC :green_heart: | Foggy :foggy: | 14 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock7: Santa María (Catamarca) :earth_americas: | 22.3ºC :yellow_heart: | Rainy :umbrella: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
