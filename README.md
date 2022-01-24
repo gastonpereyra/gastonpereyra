@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Santa María (Catamarca) :earth_americas: | 22.3ºC :yellow_heart: | Rainy :umbrella: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock12: Villa de María (Córdoba) :earth_americas: | 22.3ºC :yellow_heart: | Foggy :foggy: | 3 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
