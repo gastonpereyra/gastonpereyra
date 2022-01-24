@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: La Plata (Buenos Aires) :earth_americas: | 27.1ºC :yellow_heart: | Foggy :foggy: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock12: Puerto San Julián (Santa Cruz) :earth_americas: | 16.6ºC :green_heart: | Foggy :foggy: | 14 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
