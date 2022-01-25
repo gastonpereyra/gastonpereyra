@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Aimogasta (La Rioja) :earth_americas: | 28.8ºC :yellow_heart: | Foggy :foggy: | 14 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock12: Almafuerte (Córdoba) :earth_americas: | 25.2ºC :yellow_heart: | Cloudy High :partly_sunny: | 13 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
