@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Clorinda (Formosa) :earth_americas: | 31.1ºC :heart: | Foggy :foggy: | 16 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock7: Puerto Argentino (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 10.2ºC :green_heart: | Sunny Overcast :partly_sunny: | 44 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
