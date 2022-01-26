@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Eldorado (Misiones) :earth_americas: | 23.1ºC :yellow_heart: | Foggy :foggy: | 9 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock12: Clorinda (Formosa) :earth_americas: | 31.1ºC :heart: | Foggy :foggy: | 16 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
