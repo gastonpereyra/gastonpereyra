@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Bell Ville (Córdoba) :earth_americas: | 23.5ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 22 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock8: Añatuya (Santiago del Estero) :earth_americas: | 23.8ºC :yellow_heart: | Cloudy High :partly_sunny: | 29 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
