@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: La Rioja (La Rioja) :earth_americas: | 21.4ºC :yellow_heart: | Foggy :foggy: | 9 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock5: Río Grande (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 8.7ºC :blue_heart: | Sunny Overcast :partly_sunny: | 14 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
