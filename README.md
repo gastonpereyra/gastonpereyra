@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Paso de Los Libres (Corrientes) :earth_americas: | 30.8ºC :heart: | Sunny Overcast :partly_sunny: | 35 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock1: La Rioja (La Rioja) :earth_americas: | 21.4ºC :yellow_heart: | Foggy :foggy: | 9 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
