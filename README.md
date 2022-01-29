@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Tigre (Buenos Aires) :earth_americas: | 24.7ºC :yellow_heart: | Sunny :sunny: | 11 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock12: General José de San Martín (Chaco) :earth_americas: | 26ºC :yellow_heart: | Sunny :sunny: | 11 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
