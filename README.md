@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Pinamar (Buenos Aires) :earth_americas: | 29.8ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 7 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock1: Mar del Plata (Buenos Aires) :earth_americas: | 23ºC :yellow_heart: | Cloudy High :partly_sunny: | 22 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
