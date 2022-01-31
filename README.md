@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Base Esperanza (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 2.8ºC :blue_heart: | Rainy :umbrella: | 25 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock7: Salta (Salta) :earth_americas: | 18.2ºC :green_heart: | Cloudy High :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
