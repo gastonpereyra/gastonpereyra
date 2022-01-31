@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Presidencia Roque Sáenz Peña (Chaco) :earth_americas: | 35.4ºC :heart: | Sunny :sunny: | 9 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock12: Base Esperanza (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 2.8ºC :blue_heart: | Rainy :umbrella: | 25 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
