@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Villa General Belgrano (Córdoba) :earth_americas: | 23ºC :yellow_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock12: Alta Gracia (Córdoba) :earth_americas: | 23.4ºC :yellow_heart: | Sunny :sunny: | 7 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
