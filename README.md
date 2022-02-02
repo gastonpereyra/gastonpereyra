@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Río Grande (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 8.9ºC :blue_heart: | Cloudy High :partly_sunny: | 44 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock7: Formosa (Formosa) :earth_americas: | 23.7ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 7 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
