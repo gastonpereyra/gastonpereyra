@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock6: San Clemente del Tuyú (Buenos Aires) :earth_americas: | 17.4ºC :green_heart: | Sunny :sunny: | 1 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock12: Las Lomitas (Formosa) :earth_americas: | 28.3ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
