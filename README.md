@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: San Miguel (Buenos Aires) :earth_americas: | 18.6ºC :green_heart: | Foggy :foggy: | 24 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock7: Libertador Gral San Martín (Jujuy) :earth_americas: | 26ºC :yellow_heart: | Cloudy High :partly_sunny: | 7 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
