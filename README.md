@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: General Acha (La Pampa) :earth_americas: | 16.2ºC :green_heart: | Foggy :foggy: | 29 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock12: San Miguel (Buenos Aires) :earth_americas: | 18.6ºC :green_heart: | Foggy :foggy: | 24 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
