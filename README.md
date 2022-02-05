@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Intendente Alvear (La Pampa) :earth_americas: | 22.1ºC :yellow_heart: | Thunderstorm :zap: | 40 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock7: General Acha (La Pampa) :earth_americas: | 16.2ºC :green_heart: | Foggy :foggy: | 29 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
