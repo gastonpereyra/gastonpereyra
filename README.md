@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Frias (Santiago del Estero) :earth_americas: | 18.2ºC :green_heart: | Foggy :foggy: | 9 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: Coronel Suarez (Buenos Aires) :earth_americas: | 13.5ºC :green_heart: | Sunny :sunny: | 13 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
