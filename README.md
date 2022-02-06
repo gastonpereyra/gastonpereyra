@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Coronel Suarez (Buenos Aires) :earth_americas: | 13.5ºC :green_heart: | Sunny :sunny: | 13 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock8: Pirané (Formosa) :earth_americas: | 30.2ºC :heart: | Sunny :sunny: | 25 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
