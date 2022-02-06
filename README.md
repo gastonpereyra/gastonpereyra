@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Villa Huidobro (Córdoba) :earth_americas: | 14.3ºC :green_heart: | Sunny Overcast :partly_sunny: | 13 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock8: Frias (Santiago del Estero) :earth_americas: | 18.2ºC :green_heart: | Foggy :foggy: | 9 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
