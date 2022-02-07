@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Corrientes (Corrientes) :earth_americas: | 23ºC :yellow_heart: | Sunny :sunny: | 9 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock7: La Quiaca (Jujuy) :earth_americas: | 8.7ºC :blue_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
