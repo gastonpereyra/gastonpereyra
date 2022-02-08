@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Pergamino (Buenos Aires) :earth_americas: | 13.6ºC :green_heart: | Sunny :sunny: | 3 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock12: Dolores (Buenos Aires) :earth_americas: | 17ºC :green_heart: | Sunny :sunny: | 3 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
