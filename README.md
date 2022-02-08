@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Villa Huidobro (Córdoba) :earth_americas: | 25.3ºC :yellow_heart: | Cloudy High :partly_sunny: | 14 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock1: Cruz del Eje (Córdoba) :earth_americas: | 16.7ºC :green_heart: | Sunny :sunny: | 9 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
