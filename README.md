@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Banfield (Buenos Aires) :earth_americas: | 24.3ºC :yellow_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock7: Casilda (Santa Fe) :earth_americas: | 22.4ºC :yellow_heart: | Foggy :foggy: | 44 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
