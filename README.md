@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: General José de San Martín (Chaco) :earth_americas: | 21.7ºC :yellow_heart: | Foggy :foggy: | 14 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock11: Empedrado (Corrientes) :earth_americas: | 23ºC :yellow_heart: | Cloudy High :partly_sunny: | 22 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
