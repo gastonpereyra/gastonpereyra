@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Villa General Belgrano (Córdoba) :earth_americas: | 17.3ºC :green_heart: | Sunny Overcast :partly_sunny: | 24 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock8: General José de San Martín (Chaco) :earth_americas: | 21.7ºC :yellow_heart: | Foggy :foggy: | 14 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
