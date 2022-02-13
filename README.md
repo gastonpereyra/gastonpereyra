@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Base Marambio (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -2ºC :purple_heart: | Snowfall :snowflake: | 46 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock12: Maquinchao (Río Negro) :earth_americas: | 25ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
