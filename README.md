@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Santa Rosa del Conlara (San Luis) :earth_americas: | 13.6ºC :green_heart: | Sunny Overcast :partly_sunny: | 7 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock6: San Antonio Oeste (Río Negro) :earth_americas: | 35.3ºC :heart: | Sunny :sunny: | 38 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
