@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: San Isidro (Buenos Aires) :earth_americas: | 13.4ºC :green_heart: | Sunny :sunny: | 3 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock11: General Pico (La Pampa) :earth_americas: | 16.4ºC :green_heart: | Sunny :sunny: | 16 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
