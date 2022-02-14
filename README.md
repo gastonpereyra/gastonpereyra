@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock6: San Antonio Oeste (Río Negro) :earth_americas: | 35.3ºC :heart: | Sunny :sunny: | 38 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock1: Puerto Madryn (Chubut) :earth_americas: | 22.4ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 11 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
