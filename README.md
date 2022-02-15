@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Bell Ville (Córdoba) :earth_americas: | 20ºC :yellow_heart: | Sunny :sunny: | 5 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock7: General Pico (La Pampa) :earth_americas: | 20.8ºC :yellow_heart: | Sunny :sunny: | 13 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
