@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Lomas de Zamora (Buenos Aires) :earth_americas: | 33.1ºC :heart: | Sunny :sunny: | 11 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: Rivadavia (Salta) :earth_americas: | 31.6ºC :heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
