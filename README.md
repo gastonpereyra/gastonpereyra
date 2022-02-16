@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: San Pedro (Buenos Aires) :earth_americas: | 23.4ºC :yellow_heart: | Sunny :sunny: | 3 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock7: Tafí Viejo (Tucumán) :earth_americas: | 21.7ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 5 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
