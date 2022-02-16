@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Rivadavia (Salta) :earth_americas: | 31.6ºC :heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock7: Marcos Juárez (Córdoba) :earth_americas: | 16.8ºC :green_heart: | Sunny :sunny: | 9 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
