@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Laboulaye (Córdoba) :earth_americas: | 17.1ºC :green_heart: | Cloudy High :partly_sunny: | 25 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock8: Pirané (Formosa) :earth_americas: | 38.8ºC :heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
