@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: La Toma (San Luis) :earth_americas: | 17.9ºC :green_heart: | Sunny :sunny: | 9 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock11: Caucete (San Juan) :earth_americas: | 19.2ºC :green_heart: | Sunny Overcast :partly_sunny: | 7 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
