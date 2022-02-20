@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Chascomus (Buenos Aires) :earth_americas: | 21ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 13 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock8: La Toma (San Luis) :earth_americas: | 17.9ºC :green_heart: | Sunny :sunny: | 9 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
