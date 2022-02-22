@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock10: Capital Federal (Capital Federal) :earth_americas: | 25.6ºC :yellow_heart: | Cloudy High :partly_sunny: | 7 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock7: Perico (Jujuy) :earth_americas: | 18.8ºC :green_heart: | Rainy :umbrella: | 14 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
