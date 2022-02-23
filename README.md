@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Chamical (La Rioja) :earth_americas: | 20.1ºC :yellow_heart: | Foggy :foggy: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock8: Banfield (Buenos Aires) :earth_americas: | 25.7ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 22 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
