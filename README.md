@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Santiago del Estero (Santiago del Estero) :earth_americas: | 22.2ºC :yellow_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock12: Puerto San Julián (Santa Cruz) :earth_americas: | 15.8ºC :green_heart: | Foggy :foggy: | 20 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
