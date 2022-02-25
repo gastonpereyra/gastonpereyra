@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: General José de San Martín (Chaco) :earth_americas: | 40.4ºC :heart: | Cloudy High :partly_sunny: | 20 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock1: Tostado (Santa Fe) :earth_americas: | 23.9ºC :yellow_heart: | Foggy :foggy: | 9 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
