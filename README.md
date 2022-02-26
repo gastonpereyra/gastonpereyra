@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock11: Pergamino (Buenos Aires) :earth_americas: | 19.7ºC :green_heart: | Thunderstorm :zap: | 14 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock8: Villa Reynolds (San Luis) :earth_americas: | 32ºC :heart: | Cloudy High :partly_sunny: | 14 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
