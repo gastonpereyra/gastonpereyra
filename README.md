@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Villa Reynolds (San Luis) :earth_americas: | 32ºC :heart: | Cloudy High :partly_sunny: | 14 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock1: Tostado (Santa Fe) :earth_americas: | 30ºC :heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
