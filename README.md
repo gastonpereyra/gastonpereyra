@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Tostado (Santa Fe) :earth_americas: | 30ºC :heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock7: Puerto Iguazú (Misiones) :earth_americas: | 23.7ºC :yellow_heart: | Sunny :sunny: | 7 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
