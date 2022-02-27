@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Puerto Iguazú (Misiones) :earth_americas: | 23.7ºC :yellow_heart: | Sunny :sunny: | 7 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock12: Santa Fe (Santa Fe) :earth_americas: | 28.3ºC :yellow_heart: | Cloudy High :partly_sunny: | 13 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
