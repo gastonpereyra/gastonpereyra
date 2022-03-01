@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Marcos Juárez (Córdoba) :earth_americas: | 15.8ºC :green_heart: | Sunny :sunny: | 3 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock8: Miramar (Buenos Aires) :earth_americas: | 26ºC :yellow_heart: | Foggy :foggy: | 44 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
