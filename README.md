@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Empedrado (Corrientes) :earth_americas: | 23.1ºC :yellow_heart: | Foggy :foggy: | 5 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock7: Junín (Buenos Aires) :earth_americas: | 27.6ºC :yellow_heart: | Sunny :sunny: | 24 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
