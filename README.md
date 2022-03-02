@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: General Alvear (Mendoza) :earth_americas: | 15ºC :green_heart: | Sunny :sunny: | 3 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock12: Empedrado (Corrientes) :earth_americas: | 23.1ºC :yellow_heart: | Foggy :foggy: | 5 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
