@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Esquel (Chubut) :earth_americas: | 14.5ºC :green_heart: | Cloudy High :partly_sunny: | 13 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock12: Curuzú Cuatiá (Corrientes) :earth_americas: | 26ºC :yellow_heart: | Sunny :sunny: | 7 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
