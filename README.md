@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Curuzú Cuatiá (Corrientes) :earth_americas: | 26ºC :yellow_heart: | Sunny :sunny: | 7 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock8: Mercedes (Corrientes) :earth_americas: | 36.6ºC :heart: | Cloudy High :partly_sunny: | 16 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
