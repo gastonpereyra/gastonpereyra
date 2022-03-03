@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: La Quiaca (Jujuy) :earth_americas: | 14.6ºC :green_heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock7: Esquel (Chubut) :earth_americas: | 14.5ºC :green_heart: | Cloudy High :partly_sunny: | 13 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
