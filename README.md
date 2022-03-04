@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: San Isidro (Buenos Aires) :earth_americas: | 21.2ºC :yellow_heart: | Rainy :umbrella: | 13 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock8: Olavarría (Buenos Aires) :earth_americas: | 28.2ºC :yellow_heart: | Thunderstorm :zap: | 7 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
