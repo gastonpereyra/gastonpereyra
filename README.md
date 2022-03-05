@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Olavarría (Buenos Aires) :earth_americas: | 28.2ºC :yellow_heart: | Thunderstorm :zap: | 7 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock1: Marcos Juárez (Córdoba) :earth_americas: | 22.8ºC :yellow_heart: | Cloudy High :partly_sunny: | 3 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
