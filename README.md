@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Neuquén (Neuquén) :earth_americas: | 16.1ºC :green_heart: | Sunny :sunny: | 3 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock8: Palpala (Jujuy) :earth_americas: | 23.6ºC :yellow_heart: | Foggy :foggy: | 5 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
