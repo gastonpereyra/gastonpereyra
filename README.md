@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock11: San Juan (San Juan) :earth_americas: | 18.6ºC :green_heart: | Cloudy High :partly_sunny: | 16 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock7: General Villegas (Buenos Aires) :earth_americas: | 28.1ºC :yellow_heart: | Cloudy High :partly_sunny: | 29 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
