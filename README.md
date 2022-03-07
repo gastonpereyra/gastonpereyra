@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Eldorado (Misiones) :earth_americas: | 23.4ºC :yellow_heart: | Sunny :sunny: | 9 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock12: Formosa (Formosa) :earth_americas: | 31.3ºC :heart: | Sunny Overcast :partly_sunny: | 22 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
