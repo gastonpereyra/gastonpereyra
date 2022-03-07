@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock11: Balcarce (Buenos Aires) :earth_americas: | 18.1ºC :green_heart: | Cloudy High :partly_sunny: | 11 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock8: Eldorado (Misiones) :earth_americas: | 23.4ºC :yellow_heart: | Sunny :sunny: | 9 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
