@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Aeroparque Buenos Aires (Capital Federal) :earth_americas: | 19.1ºC :green_heart: | Sunny :sunny: | 7 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock12: Base Esperanza (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 1.9ºC :blue_heart: | Sunny :sunny: | 27 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
