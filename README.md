@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Base Esperanza (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 1.9ºC :blue_heart: | Sunny :sunny: | 27 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock8: Dolores (Buenos Aires) :earth_americas: | 26.2ºC :yellow_heart: | Sunny :sunny: | 11 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
