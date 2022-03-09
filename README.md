@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Pirané (Formosa) :earth_americas: | 24.8ºC :yellow_heart: | Foggy :foggy: | 5 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: Melincué (Santa Fe) :earth_americas: | 16.4ºC :green_heart: | Thunderstorm :zap: | 24 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
