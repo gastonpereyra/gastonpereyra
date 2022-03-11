@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Santa Fe (Santa Fe) :earth_americas: | 25.8ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 18 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock1: Neuquén (Neuquén) :earth_americas: | 17.2ºC :green_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
