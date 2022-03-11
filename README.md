@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Neuquén (Neuquén) :earth_americas: | 17.2ºC :green_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock8: Clorinda (Formosa) :earth_americas: | 21.2ºC :yellow_heart: | Foggy :foggy: | 18 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
