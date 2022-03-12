@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock11: Tandil (Buenos Aires) :earth_americas: | 6.7ºC :blue_heart: | Sunny :sunny: | 5 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock8: Río Tercero (Córdoba) :earth_americas: | 25.4ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 11 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
