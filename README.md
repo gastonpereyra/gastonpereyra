@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: San Pedro de Jujuy (Jujuy) :earth_americas: | 15.8ºC :green_heart: | Cloudy High :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock11: Tandil (Buenos Aires) :earth_americas: | 6.7ºC :blue_heart: | Sunny :sunny: | 5 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
