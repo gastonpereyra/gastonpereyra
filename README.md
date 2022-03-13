@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Carmen de Patagones (Buenos Aires) :earth_americas: | 14.4ºC :green_heart: | Foggy :foggy: | 5 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock12: Esquel (Chubut) :earth_americas: | 8.1ºC :blue_heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: Direcciones Variables :ok:</p>
 
 ---
 
