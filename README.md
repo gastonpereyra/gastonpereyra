@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Frias (Santiago del Estero) :earth_americas: | 20.8ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 22 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock8: Carmen de Patagones (Buenos Aires) :earth_americas: | 14.4ºC :green_heart: | Foggy :foggy: | 5 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
