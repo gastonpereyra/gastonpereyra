@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Cipolletti (Río Negro) :earth_americas: | 15ºC :green_heart: | Cloudy High :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock7: Sunchales (Santa Fe) :earth_americas: | 27.8ºC :yellow_heart: | Sunny :sunny: | 3 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
