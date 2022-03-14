@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Caucete (San Juan) :earth_americas: | 18.8ºC :green_heart: | Sunny :sunny: | 9 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: Cipolletti (Río Negro) :earth_americas: | 15ºC :green_heart: | Cloudy High :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
