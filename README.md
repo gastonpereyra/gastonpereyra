@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Sunchales (Santa Fe) :earth_americas: | 27.8ºC :yellow_heart: | Sunny :sunny: | 3 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock11: Clorinda (Formosa) :earth_americas: | 24.7ºC :yellow_heart: | Sunny :sunny: | 7 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
