@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Santa Rosa (La Pampa) :earth_americas: | 16.5ºC :green_heart: | Sunny :sunny: | 18 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: Maquinchao (Río Negro) :earth_americas: | 11.8ºC :green_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
