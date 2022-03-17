@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock6: General Alvear (Mendoza) :earth_americas: | 33.2ºC :heart: | Sunny :sunny: | 24 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock1: Villa Huidobro (Córdoba) :earth_americas: | 24.1ºC :yellow_heart: | Sunny :sunny: | 22 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
