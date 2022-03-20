@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Pehuajó (Buenos Aires) :earth_americas: | 12.5ºC :green_heart: | Foggy :foggy: | 18 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock8: Melincué (Santa Fe) :earth_americas: | 21.4ºC :yellow_heart: | Cloudy High :partly_sunny: | 33 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
