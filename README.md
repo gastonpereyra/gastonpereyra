@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Andalgalá (Catamarca) :earth_americas: | 17.8ºC :green_heart: | Sunny :sunny: | 13 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock7: Palpala (Jujuy) :earth_americas: | 15ºC :green_heart: | Rainy :umbrella: | 7 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
