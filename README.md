@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Palpala (Jujuy) :earth_americas: | 15ºC :green_heart: | Rainy :umbrella: | 7 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock12: Pehuajó (Buenos Aires) :earth_americas: | 12.5ºC :green_heart: | Foggy :foggy: | 18 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
