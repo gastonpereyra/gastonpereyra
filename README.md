@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: San Fernando del Valle de Catamarca (Catamarca) :earth_americas: | 24.8ºC :yellow_heart: | Cloudy High :partly_sunny: | 37 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock1: Andalgalá (Catamarca) :earth_americas: | 17.8ºC :green_heart: | Sunny :sunny: | 13 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
