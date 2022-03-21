@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Apóstoles (Misiones) :earth_americas: | 22.4ºC :yellow_heart: | Sunny :sunny: | 14 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock8: San Fernando (Buenos Aires) :earth_americas: | 15.7ºC :green_heart: | Foggy :foggy: | 20 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
