@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Villa Huidobro (Córdoba) :earth_americas: | 21.1ºC :yellow_heart: | Foggy :foggy: | 24 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock1: Justo Daract (San Luis) :earth_americas: | 18ºC :green_heart: | Sunny Overcast :partly_sunny: | 14 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
