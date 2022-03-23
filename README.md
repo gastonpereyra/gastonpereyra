@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Laboulaye (Córdoba) :earth_americas: | 26.7ºC :yellow_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock1: Apóstoles (Misiones) :earth_americas: | 22.1ºC :yellow_heart: | Rainy :umbrella: | 13 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
