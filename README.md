@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Alta Gracia (Córdoba) :earth_americas: | 17ºC :green_heart: | Sunny :sunny: | 1 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock12: Apóstoles (Misiones) :earth_americas: | 23.4ºC :yellow_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
