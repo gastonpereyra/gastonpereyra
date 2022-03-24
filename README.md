@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Río Grande (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 8.4ºC :blue_heart: | Foggy :foggy: | 22 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock1: Tigre (Buenos Aires) :earth_americas: | 22.8ºC :yellow_heart: | Foggy :foggy: | 14 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
