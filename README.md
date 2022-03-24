@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: San Carlos de Bariloche (Río Negro) :earth_americas: | 5ºC :blue_heart: | Cloudy High :partly_sunny: | 20 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock12: San Pedro (Buenos Aires) :earth_americas: | 15.4ºC :green_heart: | Cloudy High :partly_sunny: | 24 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
