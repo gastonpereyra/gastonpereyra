@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Coronel Suarez (Buenos Aires) :earth_americas: | 15.6ºC :green_heart: | Cloudy High :partly_sunny: | 33 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock8: San Andrés (Buenos Aires) :earth_americas: | 21.4ºC :yellow_heart: | Cloudy High :partly_sunny: | 24 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
