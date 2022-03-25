@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Paraná (Entre Ríos) :earth_americas: | 14.9ºC :green_heart: | Cloudy High :partly_sunny: | 46 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock8: Tolhuin (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 11ºC :green_heart: | Cloudy High :partly_sunny: | 27 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
