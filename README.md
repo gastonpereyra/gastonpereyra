@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Cutral Co (Neuquén) :earth_americas: | 13.3ºC :green_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock5: San Andrés (Buenos Aires) :earth_americas: | 16.9ºC :green_heart: | Foggy :foggy: | 3 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
