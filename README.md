@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Caleta Olivia (Santa Cruz) :earth_americas: | 13.2ºC :green_heart: | Cloudy High :partly_sunny: | 42 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock12: Lomas de Zamora (Buenos Aires) :earth_americas: | 16.5ºC :green_heart: | Sunny :sunny: | 9 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
