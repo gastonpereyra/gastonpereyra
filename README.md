@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Rosario (Santa Fe) :earth_americas: | 17.1ºC :green_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock7: Caleta Olivia (Santa Cruz) :earth_americas: | 13.2ºC :green_heart: | Cloudy High :partly_sunny: | 42 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
