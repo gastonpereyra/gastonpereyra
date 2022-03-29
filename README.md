@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: San Carlos de Bariloche (Río Negro) :earth_americas: | 7.3ºC :blue_heart: | Rainy :umbrella: | 44 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock8: Laboulaye (Córdoba) :earth_americas: | 18.1ºC :green_heart: | Sunny :sunny: | 3 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
