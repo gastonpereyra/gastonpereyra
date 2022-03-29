@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Laboulaye (Córdoba) :earth_americas: | 18.1ºC :green_heart: | Sunny :sunny: | 3 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: Villa La Angostura (Neuquén) :earth_americas: | 2.4ºC :blue_heart: | Rainy :umbrella: | 22 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
