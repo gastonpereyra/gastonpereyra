@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: La Carlota (Córdoba) :earth_americas: | 29.5ºC :yellow_heart: | Sunny :sunny: | 29 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock1: San Carlos de Bariloche (Río Negro) :earth_americas: | 7.3ºC :blue_heart: | Rainy :umbrella: | 44 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
