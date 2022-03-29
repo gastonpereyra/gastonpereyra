@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Villa La Angostura (Neuquén) :earth_americas: | 2.4ºC :blue_heart: | Rainy :umbrella: | 22 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock8: Viedma (Río Negro) :earth_americas: | 11.2ºC :green_heart: | Rainy :umbrella: | 35 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
