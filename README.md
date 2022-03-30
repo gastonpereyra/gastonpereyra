@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Humahuaca (Jujuy) :earth_americas: | 26.9ºC :yellow_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock8: La Rioja (La Rioja) :earth_americas: | 12.8ºC :green_heart: | Rainy :umbrella: | 14 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
