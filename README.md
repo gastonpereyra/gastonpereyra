@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: La Rioja (La Rioja) :earth_americas: | 12.8ºC :green_heart: | Rainy :umbrella: | 14 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock12: Reconquista (Santa Fe) :earth_americas: | 13.4ºC :green_heart: | Rainy :umbrella: | 33 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
