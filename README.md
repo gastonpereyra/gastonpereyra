@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Concordia (Entre Ríos) :earth_americas: | 4.9ºC :blue_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock12: San Pedro (Buenos Aires) :earth_americas: | 8.4ºC :blue_heart: | Sunny Overcast :partly_sunny: | 5 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
