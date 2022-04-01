@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Villa Huidobro (Córdoba) :earth_americas: | 20.9ºC :yellow_heart: | Sunny :sunny: | 13 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock1: San Martín de Los Andes (Neuquén) :earth_americas: | 9.8ºC :blue_heart: | Sunny Overcast :partly_sunny: | 11 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
