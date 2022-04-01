@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Monte Caseros (Corrientes) :earth_americas: | 9.7ºC :blue_heart: | Sunny :sunny: | 11 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock12: Palpala (Jujuy) :earth_americas: | 12.4ºC :green_heart: | Foggy :foggy: | 3 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
