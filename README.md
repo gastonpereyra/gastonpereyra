@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Mendoza (Mendoza) :earth_americas: | 22.3ºC :yellow_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock1: Mar del Plata (Buenos Aires) :earth_americas: | 13.5ºC :green_heart: | Sunny Overcast :partly_sunny: | 14 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
