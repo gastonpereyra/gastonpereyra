@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Metán (Salta) :earth_americas: | 8ºC :blue_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock12: Bell Ville (Córdoba) :earth_americas: | 11.4ºC :green_heart: | Sunny :sunny: | 20 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
