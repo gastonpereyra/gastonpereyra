@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Aeroparque Buenos Aires (Capital Federal) :earth_americas: | 19.4ºC :green_heart: | Sunny :sunny: | 14 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock8: Ciudad Jardin Lomas del Palomar (Buenos Aires) :earth_americas: | 17.2ºC :green_heart: | Sunny Overcast :partly_sunny: | 11 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
