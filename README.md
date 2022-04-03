@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Aimogasta (La Rioja) :earth_americas: | 12ºC :green_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock8: Tigre (Buenos Aires) :earth_americas: | 18.7ºC :green_heart: | Rainy :umbrella: | 9 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
