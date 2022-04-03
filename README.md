@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Ciudad Jardin Lomas del Palomar (Buenos Aires) :earth_americas: | 17.2ºC :green_heart: | Sunny Overcast :partly_sunny: | 11 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: Aimogasta (La Rioja) :earth_americas: | 12ºC :green_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
