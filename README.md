@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Resistencia (Chaco) :earth_americas: | 21.5ºC :yellow_heart: | Thunderstorm :zap: | 14 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock8: San Clemente del Tuyú (Buenos Aires) :earth_americas: | 3.8ºC :blue_heart: | Sunny :sunny: | 3 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
