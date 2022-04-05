@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: El Calafate (Santa Cruz) :earth_americas: | 9.6ºC :blue_heart: | Cloudy High :partly_sunny: | 24 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock8: Aeroparque Buenos Aires (Capital Federal) :earth_americas: | 12.3ºC :green_heart: | Sunny :sunny: | 3 km/h :wind_chime: Direcciones Variables :ok:</p>
 
 ---
 
