@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Aeroparque Buenos Aires (Capital Federal) :earth_americas: | 12.3ºC :green_heart: | Sunny :sunny: | 3 km/h :wind_chime: Direcciones Variables :ok:</p>
+> <p align="center">:clock12: Río Gallegos (Santa Cruz) :earth_americas: | 2.4ºC :blue_heart: | Cloudy High :partly_sunny: | 33 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
