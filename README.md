@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Concepción (Tucumán) :earth_americas: | 24.4ºC :yellow_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock1: San Cristóbal (Santa Fe) :earth_americas: | 17.5ºC :green_heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
