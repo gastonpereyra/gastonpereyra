@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Quilmes (Buenos Aires) :earth_americas: | 18.6ºC :green_heart: | Foggy :foggy: | 14 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock12: Concepción del Uruguay (Entre Ríos) :earth_americas: | 20.2ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 5 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
