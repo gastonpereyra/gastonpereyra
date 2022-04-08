@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: San Antonio de Areco (Buenos Aires) :earth_americas: | 25.4ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 18 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock1: Rawson (Chubut) :earth_americas: | 13.2ºC :green_heart: | Rainy :umbrella: | 11 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
