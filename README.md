@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Base Marambio (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -7.5ºC :purple_heart: | Foggy :foggy: | 35 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock8: Las Lomitas (Formosa) :earth_americas: | 34.2ºC :heart: | Cloudy High :partly_sunny: | 18 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
