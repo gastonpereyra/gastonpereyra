@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Córdoba (Córdoba) :earth_americas: | 16ºC :green_heart: | Foggy :foggy: | 7 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock12: Base Marambio (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -7.5ºC :purple_heart: | Foggy :foggy: | 35 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
