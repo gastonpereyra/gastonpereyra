@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Las Lomitas (Formosa) :earth_americas: | 34.2ºC :heart: | Cloudy High :partly_sunny: | 18 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock12: Río Colorado (Río Negro) :earth_americas: | 16.8ºC :green_heart: | Foggy :foggy: | 14 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
