@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Trelew (Chubut) :earth_americas: | 6.2ºC :blue_heart: | Cloudy High :partly_sunny: | 7 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock8: Pinamar (Buenos Aires) :earth_americas: | 20.1ºC :yellow_heart: | Cloudy High :partly_sunny: | 22 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
