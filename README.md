@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Aeroparque Buenos Aires (Capital Federal) :earth_americas: | 17.3ºC :green_heart: | Sunny :sunny: | 3 km/h :wind_chime: Direcciones Variables :ok:</p>
+> <p align="center">:clock8: Presidencia Roque Sáenz Peña (Chaco) :earth_americas: | 18.5ºC :green_heart: | Foggy :foggy: | 7 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
