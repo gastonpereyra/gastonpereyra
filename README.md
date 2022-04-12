@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Presidencia Roque Sáenz Peña (Chaco) :earth_americas: | 18.5ºC :green_heart: | Foggy :foggy: | 7 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock12: Las Flores (Buenos Aires) :earth_americas: | 9.2ºC :blue_heart: | Cloudy High :partly_sunny: | 11 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
