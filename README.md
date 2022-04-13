@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: General Acha (La Pampa) :earth_americas: | 17ºC :green_heart: | Cloudy High :partly_sunny: | 27 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock1: Pirané (Formosa) :earth_americas: | 21.7ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 11 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
