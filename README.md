@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Tigre (Buenos Aires) :earth_americas: | 20ºC :yellow_heart: | Sunny :sunny: | 14 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock1: Puerto Iguazú (Misiones) :earth_americas: | 21.2ºC :yellow_heart: | Sunny :sunny: | 7 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
