@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Villa Dolores (Córdoba) :earth_americas: | 13.6ºC :green_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock8: Tafí Viejo (Tucumán) :earth_americas: | 21.8ºC :yellow_heart: | Foggy :foggy: | 9 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
