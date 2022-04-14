@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: General Pico (La Pampa) :earth_americas: | 9.1ºC :blue_heart: | Sunny :sunny: | 7 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock12: Villa Dolores (Córdoba) :earth_americas: | 13.6ºC :green_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
