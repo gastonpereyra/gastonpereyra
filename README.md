@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Bahía Blanca (Buenos Aires) :earth_americas: | 10.4ºC :green_heart: | Sunny :sunny: | 11 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock12: Santiago del Estero (Santiago del Estero) :earth_americas: | 12.9ºC :green_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
