@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock2: Tandil (Buenos Aires) :earth_americas: | 11.2ºC :green_heart: | Sunny Overcast :partly_sunny: | 9 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock8: Bahía Blanca (Buenos Aires) :earth_americas: | 10.4ºC :green_heart: | Sunny :sunny: | 11 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
