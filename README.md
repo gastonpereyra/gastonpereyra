@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Santiago del Estero (Santiago del Estero) :earth_americas: | 12.9ºC :green_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock7: Cutral Co (Neuquén) :earth_americas: | 23.2ºC :yellow_heart: | Cloudy High :partly_sunny: | 14 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
