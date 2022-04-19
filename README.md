@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Cutral Co (Neuquén) :earth_americas: | 23.2ºC :yellow_heart: | Cloudy High :partly_sunny: | 14 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock1: Posadas (Misiones) :earth_americas: | 21.4ºC :yellow_heart: | Sunny :sunny: | 5 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
