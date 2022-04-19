@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Eduardo Castex (La Pampa) :earth_americas: | 13.2ºC :green_heart: | Sunny :sunny: | 20 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: San José de Jachal (San Juan) :earth_americas: | 7.6ºC :blue_heart: | Sunny Overcast :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
