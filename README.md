@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Balcarce (Buenos Aires) :earth_americas: | 15.9ºC :green_heart: | Sunny :sunny: | 9 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock7: San Carlos de Bariloche (Río Negro) :earth_americas: | 0.8ºC :blue_heart: | Foggy :foggy: | 7 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
