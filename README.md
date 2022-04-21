@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Mar del Plata (Buenos Aires) :earth_americas: | 18.7ºC :green_heart: | Cloudy High :partly_sunny: | 11 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock1: Intendente Alvear (La Pampa) :earth_americas: | 10.7ºC :green_heart: | Sunny :sunny: | 9 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
