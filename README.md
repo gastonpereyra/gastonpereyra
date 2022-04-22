@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: La Rioja (La Rioja) :earth_americas: | 17.8ºC :green_heart: | Sunny :sunny: | 11 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock8: Caucete (San Juan) :earth_americas: | 10.6ºC :green_heart: | Foggy :foggy: | 5 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
