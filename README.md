@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock11: San Javier (Santa Fe) :earth_americas: | 7.8ºC :blue_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock7: Eduardo Castex (La Pampa) :earth_americas: | 26.1ºC :yellow_heart: | Sunny :sunny: | 27 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
