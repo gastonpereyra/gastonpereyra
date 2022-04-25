@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: 9 de Julio (Buenos Aires) :earth_americas: | 17.2ºC :green_heart: | Cloudy High :partly_sunny: | 14 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock8: Tolhuin (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 6.2ºC :blue_heart: | Rainy :umbrella: | 27 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
