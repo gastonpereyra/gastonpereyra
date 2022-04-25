@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: San Javier (Santa Fe) :earth_americas: | 24.2ºC :yellow_heart: | Foggy :foggy: | 20 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock8: Palpala (Jujuy) :earth_americas: | 15.2ºC :green_heart: | Sunny :sunny: | 14 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
