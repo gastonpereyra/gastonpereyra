@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Tolhuin (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 6.2ºC :blue_heart: | Rainy :umbrella: | 27 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock1: Base Marambio (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -14ºC :purple_heart: | Foggy :foggy: | 55 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
