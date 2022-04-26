@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock11: Trelew (Chubut) :earth_americas: | 13.4ºC :green_heart: | Cloudy High :partly_sunny: | 18 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock8: San Ramón de La Nueva Orán (Salta) :earth_americas: | 32ºC :heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
