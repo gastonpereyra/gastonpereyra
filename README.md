@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Lomas de Zamora (Buenos Aires) :earth_americas: | 14.2ºC :green_heart: | Sunny Overcast :partly_sunny: | 14 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock8: Neuquén (Neuquén) :earth_americas: | 13.4ºC :green_heart: | Cloudy High :partly_sunny: | 27 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
