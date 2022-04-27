@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Presidencia Roque Sáenz Peña (Chaco) :earth_americas: | 28.5ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 18 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock7: Viedma (Río Negro) :earth_americas: | 10.3ºC :green_heart: | Sunny Overcast :partly_sunny: | 13 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
