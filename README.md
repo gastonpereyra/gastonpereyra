@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Intendente Alvear (La Pampa) :earth_americas: | 15ºC :green_heart: | Sunny :sunny: | 18 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock2: Azul (Buenos Aires) :earth_americas: | 4.3ºC :blue_heart: | Sunny :sunny: | 5 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
