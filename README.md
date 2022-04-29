@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock2: Azul (Buenos Aires) :earth_americas: | 4.3ºC :blue_heart: | Sunny :sunny: | 5 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock7: Marcos Juárez (Córdoba) :earth_americas: | 4ºC :blue_heart: | Sunny :sunny: | 11 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
