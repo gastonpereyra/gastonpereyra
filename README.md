@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Marcos Juárez (Córdoba) :earth_americas: | 4ºC :blue_heart: | Sunny :sunny: | 11 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock12: Villa Dolores (Córdoba) :earth_americas: | 8.2ºC :blue_heart: | Foggy :foggy: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
