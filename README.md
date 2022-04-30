@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Mendoza (Mendoza) :earth_americas: | 15.2ºC :green_heart: | Sunny :sunny: | 7 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock1: Malargüe (Mendoza) :earth_americas: | 4.3ºC :blue_heart: | Sunny :sunny: | 5 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
