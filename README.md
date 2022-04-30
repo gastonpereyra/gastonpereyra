@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock5: General Acha (La Pampa) :earth_americas: | 3.6ºC :blue_heart: | Sunny :sunny: | 1 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock12: Puerto Santa Cruz (Santa Cruz) :earth_americas: | 3.4ºC :blue_heart: | Cloudy High :partly_sunny: | 3 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
