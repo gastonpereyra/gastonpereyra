@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Ciudad Evita (Buenos Aires) :earth_americas: | 15.3ºC :green_heart: | Cloudy High :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock2: Salta (Salta) :earth_americas: | 13.5ºC :green_heart: | Foggy :foggy: | 11 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
