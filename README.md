@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Metán (Salta) :earth_americas: | 13ºC :green_heart: | Foggy :foggy: | 5 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: Almafuerte (Córdoba) :earth_americas: | 6.1ºC :blue_heart: | Sunny :sunny: | 3 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
