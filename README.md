@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock2: Tolhuin (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 4ºC :blue_heart: | Sunny Overcast :partly_sunny: | 7 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock8: Reconquista (Santa Fe) :earth_americas: | 14.6ºC :green_heart: | Foggy :foggy: | 11 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
