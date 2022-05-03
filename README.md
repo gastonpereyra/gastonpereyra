@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Comodoro Rivadavia (Chubut) :earth_americas: | 14.5ºC :green_heart: | Cloudy High :partly_sunny: | 31 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock8: Marcos Juárez (Córdoba) :earth_americas: | 2.8ºC :blue_heart: | Sunny :sunny: | 7 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
