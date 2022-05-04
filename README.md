@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Bahía Blanca (Buenos Aires) :earth_americas: | 11.6ºC :green_heart: | Cloudy High :partly_sunny: | 25 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock8: Añatuya (Santiago del Estero) :earth_americas: | 24.8ºC :yellow_heart: | Sunny :sunny: | 13 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
