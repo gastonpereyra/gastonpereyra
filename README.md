@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: San Pedro (Buenos Aires) :earth_americas: | 18.2ºC :green_heart: | Sunny Overcast :partly_sunny: | 11 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock1: Frias (Santiago del Estero) :earth_americas: | 17.6ºC :green_heart: | Sunny :sunny: | 25 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
