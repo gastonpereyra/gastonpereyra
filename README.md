@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: General José de San Martín (Chaco) :earth_americas: | 10ºC :green_heart: | Sunny :sunny: | 7 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock12: Bahía Blanca (Buenos Aires) :earth_americas: | 11.6ºC :green_heart: | Cloudy High :partly_sunny: | 25 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
