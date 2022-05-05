@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Añatuya (Santiago del Estero) :earth_americas: | 24.8ºC :yellow_heart: | Sunny :sunny: | 13 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock1: Casilda (Santa Fe) :earth_americas: | 11.1ºC :green_heart: | Sunny :sunny: | 3 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
