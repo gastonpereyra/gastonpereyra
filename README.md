@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: La Rioja (La Rioja) :earth_americas: | 24.6ºC :yellow_heart: | Cloudy High :partly_sunny: | 5 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock1: Base Marambio (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -25ºC :purple_heart: | Snowfall :snowflake: | 63 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
