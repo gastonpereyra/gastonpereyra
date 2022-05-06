@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Base Marambio (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -25ºC :purple_heart: | Snowfall :snowflake: | 63 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock7: Tartagal (Salta) :earth_americas: | 14ºC :green_heart: | Sunny Overcast :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
