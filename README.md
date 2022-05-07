@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: San Fernando (Buenos Aires) :earth_americas: | 15.6ºC :green_heart: | Sunny Overcast :partly_sunny: | 5 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock8: Balcarce (Buenos Aires) :earth_americas: | 21.6ºC :yellow_heart: | Cloudy High :partly_sunny: | 33 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
