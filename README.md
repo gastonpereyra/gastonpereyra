@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: San Salvador de Jujuy (Jujuy) :earth_americas: | 22.7ºC :yellow_heart: | Cloudy High :partly_sunny: | 13 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock1: Mina Clavero (Córdoba) :earth_americas: | 13.2ºC :green_heart: | Sunny Overcast :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
