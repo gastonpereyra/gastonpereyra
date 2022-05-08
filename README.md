@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Balcarce (Buenos Aires) :earth_americas: | 21.6ºC :yellow_heart: | Cloudy High :partly_sunny: | 33 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock1: Mina Clavero (Córdoba) :earth_americas: | 16.8ºC :green_heart: | Cloudy High :partly_sunny: | 3 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
