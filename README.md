@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Monte Caseros (Corrientes) :earth_americas: | 22.6ºC :yellow_heart: | Foggy :foggy: | 11 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock12: Chapelco (Neuquén) :earth_americas: | 8.5ºC :blue_heart: | Sunny Overcast :partly_sunny: | 13 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
