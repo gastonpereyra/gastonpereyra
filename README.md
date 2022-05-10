@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Sunchales (Santa Fe) :earth_americas: | 12.1ºC :green_heart: | Cloudy High :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock12: Posadas (Misiones) :earth_americas: | 17.8ºC :green_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
