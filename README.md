@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Gobernador Gregores (Santa Cruz) :earth_americas: | 4ºC :blue_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock8: Laboulaye (Córdoba) :earth_americas: | 19.7ºC :green_heart: | Sunny Overcast :partly_sunny: | 14 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
