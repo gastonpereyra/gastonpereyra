@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Esquel (Chubut) :earth_americas: | 5.1ºC :blue_heart: | Sunny Overcast :partly_sunny: | 22 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock12: General Villegas (Buenos Aires) :earth_americas: | 10ºC :green_heart: | Sunny Overcast :partly_sunny: | 1 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
