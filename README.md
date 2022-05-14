@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: San Ramón de La Nueva Orán (Salta) :earth_americas: | 18.4ºC :green_heart: | Foggy :foggy: | 9 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock8: Tigre (Buenos Aires) :earth_americas: | 18.5ºC :green_heart: | Sunny :sunny: | 9 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
