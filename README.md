@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock2: La Toma (San Luis) :earth_americas: | 8ºC :blue_heart: | Foggy :foggy: | 31 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock8: Alta Gracia (Córdoba) :earth_americas: | 7ºC :blue_heart: | Rainy :umbrella: | 5 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
