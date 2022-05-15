@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Gualeguay (Entre Ríos) :earth_americas: | 9.4ºC :blue_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock8: Caucete (San Juan) :earth_americas: | 16.6ºC :green_heart: | Sunny :sunny: | 9 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
