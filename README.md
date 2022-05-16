@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Viedma (Río Negro) :earth_americas: | 10ºC :green_heart: | Cloudy High :partly_sunny: | 25 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock8: Intendente Alvear (La Pampa) :earth_americas: | 5.1ºC :blue_heart: | Foggy :foggy: | 13 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
