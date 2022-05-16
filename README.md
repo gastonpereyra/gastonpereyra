@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Caucete (San Juan) :earth_americas: | 16.6ºC :green_heart: | Sunny :sunny: | 9 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock1: Viedma (Río Negro) :earth_americas: | 10ºC :green_heart: | Cloudy High :partly_sunny: | 25 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
