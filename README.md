@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Colón (Entre Ríos) :earth_americas: | 13.4ºC :green_heart: | Foggy :foggy: | 27 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock11: Río Grande (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 2.8ºC :blue_heart: | Foggy :foggy: | 7 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
