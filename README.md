@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: San Pedro de Jujuy (Jujuy) :earth_americas: | 17.5ºC :green_heart: | Sunny Overcast :partly_sunny: | 5 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock1: San Rafael (Mendoza) :earth_americas: | 3.8ºC :blue_heart: | Sunny :sunny: | 9 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
