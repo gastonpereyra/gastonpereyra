@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Palpala (Jujuy) :earth_americas: | 4.6ºC :blue_heart: | Sunny Overcast :partly_sunny: | 9 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock12: Cipolletti (Río Negro) :earth_americas: | 1.4ºC :blue_heart: | Foggy :foggy: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
