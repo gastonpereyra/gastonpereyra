@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Caucete (San Juan) :earth_americas: | 20ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 29 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock1: La Quiaca (Jujuy) :earth_americas: | 5ºC :blue_heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
