@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: La Quiaca (Jujuy) :earth_americas: | 5ºC :blue_heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock7: Frias (Santiago del Estero) :earth_americas: | 6ºC :blue_heart: | Sunny :sunny: | 7 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
