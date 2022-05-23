@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Ushuaia (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 1.3ºC :blue_heart: | Sunny Overcast :partly_sunny: | 5 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock12: Villa La Angostura (Neuquén) :earth_americas: | 2ºC :blue_heart: | Rainy :umbrella: | 24 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
