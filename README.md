@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Viedma (Río Negro) :earth_americas: | 5.3ºC :blue_heart: | Sunny :sunny: | 18 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock8: Tartagal (Salta) :earth_americas: | 27ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
