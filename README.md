@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Paso de Indios (Chubut) :earth_americas: | 9.1ºC :blue_heart: | Sunny Overcast :partly_sunny: | 29 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock1: Villa Huidobro (Córdoba) :earth_americas: | 11.7ºC :green_heart: | Foggy :foggy: | 24 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
