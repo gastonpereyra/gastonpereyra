@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Villa Huidobro (Córdoba) :earth_americas: | 11.7ºC :green_heart: | Foggy :foggy: | 24 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock8: San Juan (San Juan) :earth_americas: | 4ºC :blue_heart: | Sunny :sunny: | 5 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
