@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Tartagal (Salta) :earth_americas: | 27ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock1: Formosa (Formosa) :earth_americas: | 21.2ºC :yellow_heart: | Cloudy High :partly_sunny: | 7 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
