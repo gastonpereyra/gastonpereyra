@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock2: Villa Reynolds (San Luis) :earth_americas: | 4ºC :blue_heart: | Cloudy High :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock8: Cruz del Eje (Córdoba) :earth_americas: | 7.3ºC :blue_heart: | Cloudy High :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
