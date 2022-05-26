@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: San Andrés (Buenos Aires) :earth_americas: | 10.8ºC :green_heart: | Foggy :foggy: | 14 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock2: Villa Reynolds (San Luis) :earth_americas: | 4ºC :blue_heart: | Cloudy High :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
