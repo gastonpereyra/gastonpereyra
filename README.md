@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Pilar Observatorio (Córdoba) :earth_americas: | 14.2ºC :green_heart: | Cloudy High :partly_sunny: | 5 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock2: Empedrado (Corrientes) :earth_americas: | 17ºC :green_heart: | Thunderstorm :zap: | 5 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
