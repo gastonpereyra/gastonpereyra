@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock2: Empedrado (Corrientes) :earth_americas: | 17ºC :green_heart: | Thunderstorm :zap: | 5 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock8: Morón (Buenos Aires) :earth_americas: | 8.7ºC :blue_heart: | Cloudy High :partly_sunny: | 3 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
