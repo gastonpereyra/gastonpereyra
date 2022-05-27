@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Termas de Río Hondo (Santiago del Estero) :earth_americas: | 11.6ºC :green_heart: | Foggy :foggy: | 9 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock8: San Andrés (Buenos Aires) :earth_americas: | 14.2ºC :green_heart: | Foggy :foggy: | 5 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
