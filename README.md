@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: San Cristóbal (Santa Fe) :earth_americas: | 11.8ºC :green_heart: | Cloudy High :partly_sunny: | 3 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock12: San Martín de Los Andes (Neuquén) :earth_americas: | -1.8ºC :purple_heart: | Sunny Overcast :partly_sunny: | 16 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
