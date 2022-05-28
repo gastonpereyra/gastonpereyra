@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Santa María (Catamarca) :earth_americas: | 12.7ºC :green_heart: | Foggy :foggy: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock8: San Cristóbal (Santa Fe) :earth_americas: | 11.8ºC :green_heart: | Cloudy High :partly_sunny: | 3 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
