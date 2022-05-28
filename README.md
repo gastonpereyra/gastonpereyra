@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: San Andrés (Buenos Aires) :earth_americas: | 14.2ºC :green_heart: | Foggy :foggy: | 5 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock1: Santa María (Catamarca) :earth_americas: | 12.7ºC :green_heart: | Foggy :foggy: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
