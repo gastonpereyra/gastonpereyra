@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: General Alvear (Mendoza) :earth_americas: | 11.2ºC :green_heart: | Sunny :sunny: | 9 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock1: Aimogasta (La Rioja) :earth_americas: | 11.6ºC :green_heart: | Cloudy High :partly_sunny: | 1 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
