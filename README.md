@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Clorinda (Formosa) :earth_americas: | 9ºC :blue_heart: | Sunny :sunny: | 5 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock8: Trelew (Chubut) :earth_americas: | 4.6ºC :blue_heart: | Foggy :foggy: | 7 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
