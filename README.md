@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Concepción (Tucumán) :earth_americas: | 10ºC :green_heart: | Foggy :foggy: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock7: Pirané (Formosa) :earth_americas: | 15.7ºC :green_heart: | Sunny :sunny: | 14 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
