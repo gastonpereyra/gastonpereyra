@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock11: Colón (Entre Ríos) :earth_americas: | 6ºC :blue_heart: | Foggy :foggy: | 3 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock7: Casilda (Santa Fe) :earth_americas: | 11.4ºC :green_heart: | Foggy :foggy: | 5 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
