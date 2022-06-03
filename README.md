@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Quilmes (Buenos Aires) :earth_americas: | 9.2ºC :blue_heart: | Sunny Overcast :partly_sunny: | 7 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock8: Mercedes (Corrientes) :earth_americas: | 14.4ºC :green_heart: | Sunny Overcast :partly_sunny: | 14 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
