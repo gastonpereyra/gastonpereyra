@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: General Alvear (Mendoza) :earth_americas: | 1.8ºC :blue_heart: | Sunny :sunny: | 14 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock8: Tartagal (Salta) :earth_americas: | 7.2ºC :blue_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
