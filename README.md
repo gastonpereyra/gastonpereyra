@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Mercedes (Corrientes) :earth_americas: | 14.4ºC :green_heart: | Sunny Overcast :partly_sunny: | 14 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock1: Alta Gracia (Córdoba) :earth_americas: | 9.7ºC :blue_heart: | Cloudy High :partly_sunny: | 5 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
