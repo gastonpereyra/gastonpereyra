@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Puerto San Julián (Santa Cruz) :earth_americas: | 3.9ºC :blue_heart: | Sunny :sunny: | 25 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock8: Río Grande (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 2.1ºC :blue_heart: | Cloudy High :partly_sunny: | 31 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
