@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Apóstoles (Misiones) :earth_americas: | 23.4ºC :yellow_heart: | Foggy :foggy: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock1: Formosa (Formosa) :earth_americas: | 23.1ºC :yellow_heart: | Foggy :foggy: | 20 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
