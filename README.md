@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Formosa (Formosa) :earth_americas: | 23.1ºC :yellow_heart: | Foggy :foggy: | 20 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock8: Almafuerte (Córdoba) :earth_americas: | 7.8ºC :blue_heart: | Sunny :sunny: | 1 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
