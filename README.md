@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Santiago del Estero (Santiago del Estero) :earth_americas: | 3.2ºC :blue_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock8: Frias (Santiago del Estero) :earth_americas: | 23.2ºC :yellow_heart: | Sunny :sunny: | 9 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
