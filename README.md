@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Junín (Buenos Aires) :earth_americas: | 6ºC :blue_heart: | Sunny :sunny: | 14 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock8: Rosario (Santa Fe) :earth_americas: | 4.7ºC :blue_heart: | Foggy :foggy: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
