@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: San José de Jachal (San Juan) :earth_americas: | -1.2ºC :purple_heart: | Sunny Overcast :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock8: Viedma (Río Negro) :earth_americas: | 16.9ºC :green_heart: | Foggy :foggy: | 31 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
