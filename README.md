@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Villa María (Córdoba) :earth_americas: | 7.2ºC :blue_heart: | Foggy :foggy: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock12: Eduardo Castex (La Pampa) :earth_americas: | 1.5ºC :blue_heart: | Foggy :foggy: | 9 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
