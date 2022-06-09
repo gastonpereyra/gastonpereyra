@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Eduardo Castex (La Pampa) :earth_americas: | 1.5ºC :blue_heart: | Foggy :foggy: | 9 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock7: Morón (Buenos Aires) :earth_americas: | 15.1ºC :green_heart: | Cloudy High :partly_sunny: | 20 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
