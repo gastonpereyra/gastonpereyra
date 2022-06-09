@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: La Toma (San Luis) :earth_americas: | 12.9ºC :green_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock8: Villa María (Córdoba) :earth_americas: | 7.2ºC :blue_heart: | Foggy :foggy: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
