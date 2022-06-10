@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Morón (Buenos Aires) :earth_americas: | 15.1ºC :green_heart: | Cloudy High :partly_sunny: | 20 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock1: San Pedro de Jujuy (Jujuy) :earth_americas: | 13.7ºC :green_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
