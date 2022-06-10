@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Santa Fe (Santa Fe) :earth_americas: | 2.6ºC :blue_heart: | Sunny :sunny: | 13 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock12: Andalgalá (Catamarca) :earth_americas: | 14.6ºC :green_heart: | Foggy :foggy: | 33 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
