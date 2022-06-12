@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Comodoro Rivadavia (Chubut) :earth_americas: | 15.2ºC :green_heart: | Foggy :foggy: | 20 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock8: Goya (Corrientes) :earth_americas: | 4.5ºC :blue_heart: | Sunny :sunny: | 7 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
