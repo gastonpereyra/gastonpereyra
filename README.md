@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Las Lomitas (Formosa) :earth_americas: | 6.8ºC :blue_heart: | Sunny :sunny: | 5 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock8: Pergamino (Buenos Aires) :earth_americas: | 19ºC :green_heart: | Sunny Overcast :partly_sunny: | 44 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
