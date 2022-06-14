@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock2: Cosquin (Córdoba) :earth_americas: | 11.4ºC :green_heart: | Sunny Overcast :partly_sunny: | 22 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock8: Córdoba (Córdoba) :earth_americas: | 9.9ºC :blue_heart: | Cloudy High :partly_sunny: | 3 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
