@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: San Javier (Santa Fe) :earth_americas: | 19.1ºC :green_heart: | Foggy :foggy: | 16 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock2: Frias (Santiago del Estero) :earth_americas: | 6.2ºC :blue_heart: | Foggy :foggy: | 3 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
