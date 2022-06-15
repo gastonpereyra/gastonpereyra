@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: General Acha (La Pampa) :earth_americas: | 3ºC :blue_heart: | Sunny :sunny: | 7 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock12: Mendoza (Mendoza) :earth_americas: | 5ºC :blue_heart: | Sunny Overcast :partly_sunny: | 11 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
