@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock2: Resistencia (Chaco) :earth_americas: | 15.2ºC :green_heart: | Sunny Overcast :partly_sunny: | 5 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock8: Villa Huidobro (Córdoba) :earth_americas: | 1ºC :blue_heart: | Foggy :foggy: | 5 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
