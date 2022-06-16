@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Villa Huidobro (Córdoba) :earth_americas: | 1ºC :blue_heart: | Foggy :foggy: | 5 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock12: Laboulaye (Córdoba) :earth_americas: | 0.7ºC :blue_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
