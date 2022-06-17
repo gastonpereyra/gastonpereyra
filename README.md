@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Metán (Salta) :earth_americas: | 18.2ºC :green_heart: | Sunny Overcast :partly_sunny: | 9 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock2: San Martín (Mendoza) :earth_americas: | 7ºC :blue_heart: | Sunny :sunny: | 3 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
