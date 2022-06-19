@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: San Cristóbal (Santa Fe) :earth_americas: | 8.8ºC :blue_heart: | Sunny :sunny: | 9 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock8: Ciudad Jardin Lomas del Palomar (Buenos Aires) :earth_americas: | 7.2ºC :blue_heart: | Cloudy High :partly_sunny: | 13 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
