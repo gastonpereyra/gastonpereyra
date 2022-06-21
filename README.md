@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: San Andrés (Buenos Aires) :earth_americas: | 10.2ºC :green_heart: | Cloudy High :partly_sunny: | 3 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock12: José María Ezeiza (Buenos Aires) :earth_americas: | 6.8ºC :blue_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
