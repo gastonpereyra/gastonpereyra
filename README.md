@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock2: Pergamino (Buenos Aires) :earth_americas: | 8.5ºC :blue_heart: | Foggy :foggy: | 24 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock8: Azul (Buenos Aires) :earth_americas: | -3.6ºC :purple_heart: | Sunny Overcast :partly_sunny: | 9 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
