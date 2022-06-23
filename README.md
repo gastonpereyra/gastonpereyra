@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock2: Santa Rosa (La Pampa) :earth_americas: | 3.2ºC :blue_heart: | Foggy :foggy: | 1 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock8: Villa Ángela (Chaco) :earth_americas: | 9.9ºC :blue_heart: | Foggy :foggy: | 9 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
