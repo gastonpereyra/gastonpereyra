@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Villa Ángela (Chaco) :earth_americas: | 9.9ºC :blue_heart: | Foggy :foggy: | 9 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock12: San Carlos de Bolívar (Buenos Aires) :earth_americas: | 1ºC :blue_heart: | Foggy :foggy: | 3 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
