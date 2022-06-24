@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: La Carlota (Córdoba) :earth_americas: | 10.7ºC :green_heart: | Sunny :sunny: | 9 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock2: Miramar (Buenos Aires) :earth_americas: | 4.7ºC :blue_heart: | Foggy :foggy: | 7 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
