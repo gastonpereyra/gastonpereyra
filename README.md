@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Melincué (Santa Fe) :earth_americas: | 12.2ºC :green_heart: | Foggy :foggy: | 9 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock2: San Juan (San Juan) :earth_americas: | 7.2ºC :blue_heart: | Foggy :foggy: | 22 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
