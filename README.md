@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock6: Maquinchao (Río Negro) :earth_americas: | -9.8ºC :purple_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock12: Las Lomitas (Formosa) :earth_americas: | 12ºC :green_heart: | Foggy :foggy: | 14 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
