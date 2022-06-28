@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Villa Dolores (Córdoba) :earth_americas: | 7.8ºC :blue_heart: | Foggy :foggy: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock12: San Martín de Los Andes (Neuquén) :earth_americas: | 6.8ºC :blue_heart: | Rainy :umbrella: | 27 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
