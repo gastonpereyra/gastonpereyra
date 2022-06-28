@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Sunchales (Santa Fe) :earth_americas: | 12.6ºC :green_heart: | Foggy :foggy: | 9 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock1: Villa General Belgrano (Córdoba) :earth_americas: | 7.6ºC :blue_heart: | Rainy :umbrella: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
