@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Perico (Jujuy) :earth_americas: | 20.2ºC :yellow_heart: | Sunny :sunny: | 5 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock2: Tandil (Buenos Aires) :earth_americas: | 8.4ºC :blue_heart: | Sunny :sunny: | 9 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
