@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Santa María (Catamarca) :earth_americas: | 7.3ºC :blue_heart: | Sunny :sunny: | 13 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: General Villegas (Buenos Aires) :earth_americas: | 6.1ºC :blue_heart: | Sunny Overcast :partly_sunny: | 29 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
