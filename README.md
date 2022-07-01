@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock2: Capital Federal (Capital Federal) :earth_americas: | 10.2ºC :green_heart: | Sunny :sunny: | 7 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock8: Santa María (Catamarca) :earth_americas: | 7.3ºC :blue_heart: | Sunny :sunny: | 13 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
