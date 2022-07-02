@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Carmen de Patagones (Buenos Aires) :earth_americas: | 3.2ºC :blue_heart: | Sunny :sunny: | 14 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock12: La Quiaca (Jujuy) :earth_americas: | -6.8ºC :purple_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
