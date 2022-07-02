@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: San Martín de Los Andes (Neuquén) :earth_americas: | 4.5ºC :blue_heart: | Cloudy High :partly_sunny: | 29 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock1: Ciudad Jardin Lomas del Palomar (Buenos Aires) :earth_americas: | 11.1ºC :green_heart: | Foggy :foggy: | 5 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
