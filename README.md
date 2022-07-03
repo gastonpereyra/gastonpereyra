@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Perico (Jujuy) :earth_americas: | 11.8ºC :green_heart: | Foggy :foggy: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock12: Andalgalá (Catamarca) :earth_americas: | 10ºC :green_heart: | Sunny Overcast :partly_sunny: | 29 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
