@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Pirané (Formosa) :earth_americas: | 19.7ºC :green_heart: | Cloudy High :partly_sunny: | 14 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock8: Perico (Jujuy) :earth_americas: | 11.8ºC :green_heart: | Foggy :foggy: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
