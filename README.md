@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Andalgalá (Catamarca) :earth_americas: | 10ºC :green_heart: | Sunny Overcast :partly_sunny: | 29 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock7: Villa Huidobro (Córdoba) :earth_americas: | 15.1ºC :green_heart: | Foggy :foggy: | 5 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
