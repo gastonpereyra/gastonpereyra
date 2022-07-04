@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock2: Base Marambio (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -3ºC :purple_heart: | Foggy :foggy: | 29 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock8: Puerto Argentino (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 3.4ºC :blue_heart: | Foggy :foggy: | 31 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
