@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Villa Huidobro (Córdoba) :earth_americas: | 15.1ºC :green_heart: | Foggy :foggy: | 5 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock2: Base Marambio (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -3ºC :purple_heart: | Foggy :foggy: | 29 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
