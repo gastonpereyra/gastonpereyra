@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: La Carlota (Córdoba) :earth_americas: | -0.5ºC :purple_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock12: Malargüe (Mendoza) :earth_americas: | 1.7ºC :blue_heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
