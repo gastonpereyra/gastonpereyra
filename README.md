@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: San Bernardo (Buenos Aires) :earth_americas: | 13.1ºC :green_heart: | Sunny :sunny: | 3 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock2: San Luis (San Luis) :earth_americas: | 8.3ºC :blue_heart: | Sunny :sunny: | 9 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
