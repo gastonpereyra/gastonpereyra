@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Santa Rosa (La Pampa) :earth_americas: | 5.6ºC :blue_heart: | Foggy :foggy: | 27 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: La Plata (Buenos Aires) :earth_americas: | 10.2ºC :green_heart: | Foggy :foggy: | 11 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
