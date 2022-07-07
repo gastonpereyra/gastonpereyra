@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: San Javier (Santa Fe) :earth_americas: | 14.9ºC :green_heart: | Foggy :foggy: | 16 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock2: Goya (Corrientes) :earth_americas: | 16ºC :green_heart: | Foggy :foggy: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
