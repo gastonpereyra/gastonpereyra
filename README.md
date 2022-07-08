@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Miramar (Buenos Aires) :earth_americas: | 10.6ºC :green_heart: | Sunny Overcast :partly_sunny: | 22 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock2: Pergamino (Buenos Aires) :earth_americas: | 0.2ºC :blue_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
