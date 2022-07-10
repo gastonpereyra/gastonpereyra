@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock2: Tigre (Buenos Aires) :earth_americas: | 17.8ºC :green_heart: | Sunny :sunny: | 13 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock7: Puerto Argentino (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -1.5ºC :purple_heart: | Sunny Overcast :partly_sunny: | 20 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
