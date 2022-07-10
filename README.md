@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Puerto Argentino (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -1.5ºC :purple_heart: | Sunny Overcast :partly_sunny: | 20 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock11: Formosa (Formosa) :earth_americas: | 21.2ºC :yellow_heart: | Foggy :foggy: | 14 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
