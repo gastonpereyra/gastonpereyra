@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Pinamar (Buenos Aires) :earth_americas: | 13.8ºC :green_heart: | Foggy :foggy: | 9 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock2: Tigre (Buenos Aires) :earth_americas: | 17.8ºC :green_heart: | Sunny :sunny: | 13 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
