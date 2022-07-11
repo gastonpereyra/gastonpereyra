@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Goya (Corrientes) :earth_americas: | 17.2ºC :green_heart: | Foggy :foggy: | 16 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock12: Formosa (Formosa) :earth_americas: | 24.9ºC :yellow_heart: | Foggy :foggy: | 20 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
