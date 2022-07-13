@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Añatuya (Santiago del Estero) :earth_americas: | 18ºC :green_heart: | Sunny :sunny: | 11 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock2: San Juan (San Juan) :earth_americas: | 5ºC :blue_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
