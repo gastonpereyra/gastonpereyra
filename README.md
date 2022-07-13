@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Tostado (Santa Fe) :earth_americas: | 5.7ºC :blue_heart: | Sunny :sunny: | 11 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock12: Base Esperanza (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -2.3ºC :purple_heart: | Cloudy High :partly_sunny: | 5 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
