@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock2: San Juan (San Juan) :earth_americas: | 5ºC :blue_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock8: Tostado (Santa Fe) :earth_americas: | 5.7ºC :blue_heart: | Sunny :sunny: | 11 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
