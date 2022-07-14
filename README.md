@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock2: Pirané (Formosa) :earth_americas: | 17.3ºC :green_heart: | Foggy :foggy: | 7 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock7: Morón (Buenos Aires) :earth_americas: | 9.7ºC :blue_heart: | Foggy :foggy: | 5 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
