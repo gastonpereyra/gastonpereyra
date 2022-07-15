@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock2: Libertador Gral San Martín (Jujuy) :earth_americas: | 10ºC :green_heart: | Sunny :sunny: | 13 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock8: San Fernando del Valle de Catamarca (Catamarca) :earth_americas: | 5.2ºC :blue_heart: | Sunny :sunny: | 5 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
