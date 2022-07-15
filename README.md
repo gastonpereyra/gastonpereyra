@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Dolores (Buenos Aires) :earth_americas: | 12.6ºC :green_heart: | Foggy :foggy: | 11 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock2: Libertador Gral San Martín (Jujuy) :earth_americas: | 10ºC :green_heart: | Sunny :sunny: | 13 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
