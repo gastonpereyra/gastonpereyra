@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Formosa (Formosa) :earth_americas: | 12.9ºC :green_heart: | Sunny Overcast :partly_sunny: | 24 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock2: Laboulaye (Córdoba) :earth_americas: | 4.5ºC :blue_heart: | Sunny :sunny: | 9 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
