@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Intendente Alvear (La Pampa) :earth_americas: | 0.5ºC :blue_heart: | Sunny :sunny: | 16 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock12: Carmen de Patagones (Buenos Aires) :earth_americas: | 1.3ºC :blue_heart: | Cloudy High :partly_sunny: | 18 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
