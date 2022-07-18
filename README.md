@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: San Carlos de Bolívar (Buenos Aires) :earth_americas: | 14.4ºC :green_heart: | Sunny :sunny: | 44 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock2: Puerto Iguazú (Misiones) :earth_americas: | 7ºC :blue_heart: | Sunny :sunny: | 5 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
