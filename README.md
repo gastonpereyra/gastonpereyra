@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Eldorado (Misiones) :earth_americas: | 5.1ºC :blue_heart: | Sunny :sunny: | 3 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock12: Gobernador Gregores (Santa Cruz) :earth_americas: | 3ºC :blue_heart: | Sunny Overcast :partly_sunny: | 37 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
