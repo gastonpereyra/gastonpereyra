@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock2: Rawson (Chubut) :earth_americas: | 2ºC :blue_heart: | Sunny :sunny: | 14 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock8: San Luis (San Luis) :earth_americas: | 6.6ºC :blue_heart: | Sunny :sunny: | 11 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
