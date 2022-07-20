@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Gualeguaychú (Entre Ríos) :earth_americas: | 17.4ºC :green_heart: | Sunny :sunny: | 13 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock1: Villa Dolores (Córdoba) :earth_americas: | 8.5ºC :blue_heart: | Sunny :sunny: | 3 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
