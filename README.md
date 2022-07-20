@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Villa Dolores (Córdoba) :earth_americas: | 8.5ºC :blue_heart: | Sunny :sunny: | 3 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock8: Villa General Belgrano (Córdoba) :earth_americas: | 6.1ºC :blue_heart: | Sunny :sunny: | 3 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
