@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: El Palomar (Buenos Aires) :earth_americas: | 3.8ºC :blue_heart: | Sunny :sunny: | 5 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock12: Avellaneda (Buenos Aires) :earth_americas: | 9.9ºC :blue_heart: | Cloudy High :partly_sunny: | 20 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
