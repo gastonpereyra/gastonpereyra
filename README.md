@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Posadas (Misiones) :earth_americas: | 28.8ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 5 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock1: Santiago del Estero (Santiago del Estero) :earth_americas: | 17.2ºC :green_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
