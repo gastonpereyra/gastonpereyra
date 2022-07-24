@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Frias (Santiago del Estero) :earth_americas: | 13.8ºC :green_heart: | Sunny Overcast :partly_sunny: | 5 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: Marcos Juárez (Córdoba) :earth_americas: | 13.6ºC :green_heart: | Foggy :foggy: | 14 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
