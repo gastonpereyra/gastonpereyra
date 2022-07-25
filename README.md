@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Perito Moreno (Santa Cruz) :earth_americas: | -5ºC :purple_heart: | Foggy :foggy: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock8: Concepción del Uruguay (Entre Ríos) :earth_americas: | 18.9ºC :green_heart: | Foggy :foggy: | 18 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
