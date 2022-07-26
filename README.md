@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Paso de Indios (Chubut) :earth_americas: | 0.6ºC :blue_heart: | Snowfall :snowflake: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock7: Sunchales (Santa Fe) :earth_americas: | 32.5ºC :heart: | Sunny Overcast :partly_sunny: | 14 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
