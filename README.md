@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock7: Sunchales (Santa Fe) :earth_americas: | 32.5ºC :heart: | Sunny Overcast :partly_sunny: | 14 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock9: Coronel Moldes (Córdoba) :earth_americas: | 13.2ºC :green_heart: | Foggy :foggy: | 18 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
