@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Base Marambio (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -4.2ºC :purple_heart: | Cloudy High :partly_sunny: | 16 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock9: Zapala (Neuquén) :earth_americas: | 5ºC :blue_heart: | Rainy :umbrella: | 9 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
