@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Las Lomitas (Formosa) :earth_americas: | 34ºC :heart: | Sunny :sunny: | 5 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock9: Trelew (Chubut) :earth_americas: | 7.8ºC :blue_heart: | Foggy :foggy: | 11 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
