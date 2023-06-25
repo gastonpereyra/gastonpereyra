@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Río Cuarto (Córdoba) :earth_americas: | 13.2ºC :green_heart: | Foggy :foggy: | 18 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock9: Merlo (San Luis) :earth_americas: | 26ºC :yellow_heart: | Cloudy High :partly_sunny: | 25 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
