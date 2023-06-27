@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: General Acha (La Pampa) :earth_americas: | 11.8ºC :green_heart: | Rainy :umbrella: | 16 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock9: Libertador Gral San Martín (Jujuy) :earth_americas: | 27.2ºC :yellow_heart: | Foggy :foggy: | 18 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
