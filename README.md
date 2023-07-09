@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Pergamino (Buenos Aires) :earth_americas: | 21.7ºC :yellow_heart: | Thunderstorm :zap: | 3 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock9: Tres Arroyos (Buenos Aires) :earth_americas: | 12ºC :green_heart: | Foggy :foggy: | 7 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
