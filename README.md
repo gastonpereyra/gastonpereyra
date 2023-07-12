@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Villa Gesell (Buenos Aires) :earth_americas: | 13ºC :green_heart: | Foggy :foggy: | 5 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock9: Ushuaia (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 1.4ºC :blue_heart: | Sunny Overcast :partly_sunny: | 7 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
