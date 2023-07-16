@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Las Rosas (Santa Fe) :earth_americas: | 26.2ºC :yellow_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock9: Santa Rosa (La Pampa) :earth_americas: | 11.8ºC :green_heart: | Rainy :umbrella: | 16 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
