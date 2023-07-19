@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Coronel Moldes (Córdoba) :earth_americas: | 13.2ºC :green_heart: | Foggy :foggy: | 18 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock9: Río Grande (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 0.9ºC :blue_heart: | Sunny Overcast :partly_sunny: | 22 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
