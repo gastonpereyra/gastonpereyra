@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Neuquén (Neuquén) :earth_americas: | 9.2ºC :blue_heart: | Rainy :umbrella: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock9: Añatuya (Santiago del Estero) :earth_americas: | 30.8ºC :heart: | Sunny :sunny: | 7 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
