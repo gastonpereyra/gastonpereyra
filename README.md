@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Concepción (Tucumán) :earth_americas: | 29.2ºC :yellow_heart: | Sunny :sunny: | 11 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock9: Chamical (La Rioja) :earth_americas: | 26.4ºC :yellow_heart: | Cloudy High :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
