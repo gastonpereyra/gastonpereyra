@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Presidencia Roque Sáenz Peña (Chaco) :earth_americas: | 31.9ºC :heart: | Sunny :sunny: | 13 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock9: Paraná (Entre Ríos) :earth_americas: | 27.2ºC :yellow_heart: | Cloudy High :partly_sunny: | 11 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
