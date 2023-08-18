@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: San Fernando del Valle de Catamarca (Catamarca) :earth_americas: | 26.6ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 5 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock9: Chapelco (Neuquén) :earth_americas: | 5ºC :blue_heart: | Rainy :umbrella: | 9 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
