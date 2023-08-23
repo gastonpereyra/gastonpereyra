@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Cruz del Eje (Córdoba) :earth_americas: | 17.6ºC :green_heart: | Foggy :foggy: | 9 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock9: Córdoba (Córdoba) :earth_americas: | 18.8ºC :green_heart: | Foggy :foggy: | 5 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
