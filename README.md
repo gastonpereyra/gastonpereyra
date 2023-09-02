@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Empedrado (Corrientes) :earth_americas: | 28.9ºC :yellow_heart: | Sunny :sunny: | 7 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock9: Caucete (San Juan) :earth_americas: | 12ºC :green_heart: | Foggy :foggy: | 16 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
