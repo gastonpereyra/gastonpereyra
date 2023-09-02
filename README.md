@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Caucete (San Juan) :earth_americas: | 12ºC :green_heart: | Foggy :foggy: | 16 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock9: Carmen de Patagones (Buenos Aires) :earth_americas: | 9.9ºC :blue_heart: | Foggy :foggy: | 13 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
