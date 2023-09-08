@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Paso de Los Libres (Corrientes) :earth_americas: | 25.9ºC :yellow_heart: | Sunny :sunny: | 9 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock9: Mina Clavero (Córdoba) :earth_americas: | 25ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
