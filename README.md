@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: La Plata (Buenos Aires) :earth_americas: | 19.6ºC :green_heart: | Cloudy High :partly_sunny: | 5 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock9: Mar del Plata (Buenos Aires) :earth_americas: | 12.3ºC :green_heart: | Foggy :foggy: | 9 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
