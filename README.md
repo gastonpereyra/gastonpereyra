@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Mariano Moreno (Buenos Aires) :earth_americas: | 20.8ºC :yellow_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock9: Puerto San Julián (Santa Cruz) :earth_americas: | 1.5ºC :blue_heart: | Sunny :sunny: | 14 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
