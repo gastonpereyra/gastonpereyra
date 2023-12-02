@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Eldorado (Misiones) :earth_americas: | 24.6ºC :yellow_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock9: San Fernando del Valle de Catamarca (Catamarca) :earth_americas: | 26.6ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 5 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
