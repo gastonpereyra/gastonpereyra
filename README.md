@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: San Rafael (Mendoza) :earth_americas: | 8.1ºC :blue_heart: | Foggy :foggy: | 7 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock9: Puerto Madryn (Chubut) :earth_americas: | 7.8ºC :blue_heart: | Foggy :foggy: | 11 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
