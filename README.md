@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Marcos Juárez (Córdoba) :earth_americas: | 22.8ºC :yellow_heart: | Cloudy High :partly_sunny: | 16 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock9: San Cristóbal (Santa Fe) :earth_americas: | 28ºC :yellow_heart: | Cloudy High :partly_sunny: | 14 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
