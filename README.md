@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Bahía Blanca (Buenos Aires) :earth_americas: | 10.2ºC :green_heart: | Foggy :foggy: | 16 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock9: Humahuaca (Jujuy) :earth_americas: | 32.2ºC :heart: | Foggy :foggy: | 9 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
