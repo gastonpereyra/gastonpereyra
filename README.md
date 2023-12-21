@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Caleta Olivia (Santa Cruz) :earth_americas: | 3ºC :blue_heart: | Rainy :umbrella: | 9 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock9: San Clemente del Tuyú (Buenos Aires) :earth_americas: | 18.2ºC :green_heart: | Foggy :foggy: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
