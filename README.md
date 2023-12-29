@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Cruz del Eje (Córdoba) :earth_americas: | 17.6ºC :green_heart: | Foggy :foggy: | 9 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock9: San Luis (San Luis) :earth_americas: | 13.9ºC :green_heart: | Foggy :foggy: | 16 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
