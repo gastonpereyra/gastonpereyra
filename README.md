@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Termas de Río Hondo (Santiago del Estero) :earth_americas: | 29.2ºC :yellow_heart: | Sunny :sunny: | 11 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock12: Armenelos (Numenor) :earth_americas: | 21.65°C :yellow_heart: | Sunny Overcast :partly_sunny: | 12.91 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
