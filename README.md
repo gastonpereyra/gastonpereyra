@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Gondolin (Beleriand) :earth_americas: | 1.6°C :blue_heart: | Snow :snowman: | 12.15 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock8: Gondolin (Beleriand) :earth_americas: | 7.71°C :blue_heart: | Cloudy Down :cloud: | 5.84 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
