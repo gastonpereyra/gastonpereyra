@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Minas Tirith (Gondor) :earth_americas: | 10.73°C :green_heart: | Sunny Overcast :partly_sunny: | 4.01 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock8: Armenelos (Numenor) :earth_americas: | 18.32°C :green_heart: | Rain Mix :umbrella: | 18.39 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
