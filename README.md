@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Armenelos (Numenor) :earth_americas: | 18.54°C :green_heart: | Drizzle :droplet: | 21.04 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock1: Gondolin (Beleriand) :earth_americas: | 10.14°C :green_heart: | Snow :snowman: | 17.75 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
