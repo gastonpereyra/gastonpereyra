@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Minas Morgul (Mordor) :earth_americas: | 31.21°C :heart: | Cloudy Down :cloud: | 0.49 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock8: Gondolin (Beleriand) :earth_americas: | 13.56°C :green_heart: | Rainy :umbrella: | 6.53 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
