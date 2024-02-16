@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Rivendel (Eriador) :earth_americas: | 4.65°C :blue_heart: | Thunderstorm :zap: | 9.09 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock8: Minas Morgul (Mordor) :earth_americas: | 27.21°C :yellow_heart: | Cloudy Down :cloud: | 0.47 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
