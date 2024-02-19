@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Gondolin (Beleriand) :earth_americas: | 7.93°C :blue_heart: | Cloudy High :partly_sunny: | 10.09 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock8: Minas Tirith (Gondor) :earth_americas: | 16.81°C :green_heart: | Sunny Overcast :partly_sunny: | 0.32 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
