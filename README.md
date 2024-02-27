@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Minas Tirith (Gondor) :earth_americas: | 16.43°C :green_heart: | Unstable :foggy: | 1.68 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock8: Minas Tirith (Gondor) :earth_americas: | 22.4°C :yellow_heart: | Rain Mix :umbrella: | 4.45 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
