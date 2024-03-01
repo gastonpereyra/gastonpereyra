@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Zapala (Neuquén) :earth_americas: | 5ºC :blue_heart: | Rainy :umbrella: | 9 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock9: Aimogasta (La Rioja) :earth_americas: | 26.4ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
