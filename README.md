@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Santa Rosa (La Pampa) :earth_americas: | 11.8ºC :green_heart: | Rainy :umbrella: | 16 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock9: Chacabuco (Buenos Aires) :earth_americas: | 21.7ºC :yellow_heart: | Thunderstorm :zap: | 3 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
