@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Metán (Salta) :earth_americas: | 25.2ºC :yellow_heart: | Foggy :foggy: | 18 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock9: 9 de Julio (Buenos Aires) :earth_americas: | 17.9ºC :green_heart: | Rainy :umbrella: | 7 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
