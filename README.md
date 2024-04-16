@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Tolhuin (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 1.4ºC :blue_heart: | Sunny Overcast :partly_sunny: | 7 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock9: Merlo (San Luis) :earth_americas: | 26ºC :yellow_heart: | Cloudy High :partly_sunny: | 25 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
