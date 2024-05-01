@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Base San Martín (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 0.3ºC :blue_heart: | Snowfall :snowflake: | 55 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock9: Coronel Suarez (Buenos Aires) :earth_americas: | 12.9ºC :green_heart: | Foggy :foggy: | 14 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
