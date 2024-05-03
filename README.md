@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Añatuya (Santiago del Estero) :earth_americas: | 30.8ºC :heart: | Sunny :sunny: | 7 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock9: Puerto Iguazú (Misiones) :earth_americas: | 24.6ºC :yellow_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
