@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Reconquista (Santa Fe) :earth_americas: | 30.1ºC :heart: | Sunny :sunny: | 18 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock9: San Antonio Oeste (Río Negro) :earth_americas: | 8.4ºC :blue_heart: | Rainy :umbrella: | 27 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
