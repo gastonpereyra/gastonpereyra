@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Coronel Suarez (Buenos Aires) :earth_americas: | 12.9ºC :green_heart: | Foggy :foggy: | 14 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock9: Aimogasta (La Rioja) :earth_americas: | 26.4ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
