@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Tandil (Buenos Aires) :earth_americas: | 15.4ºC :green_heart: | Foggy :foggy: | 9 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock9: Pehuajó (Buenos Aires) :earth_americas: | 16ºC :green_heart: | Foggy :foggy: | 22 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
