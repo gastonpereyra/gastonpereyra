@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Chamical (La Rioja) :earth_americas: | 26.4ºC :yellow_heart: | Cloudy High :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock8: Minas Tirith (Gondor) :earth_americas: | 10.2°C :green_heart: | Sunny Overcast :partly_sunny: | 2.87 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
