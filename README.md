@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Armenelos (Numenor) :earth_americas: | 23.71°C :yellow_heart: | Thunderstorm :zap: | 4.57 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock9: Tigre (Buenos Aires) :earth_americas: | 19.7ºC :green_heart: | Cloudy High :partly_sunny: | 11 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
