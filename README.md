@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Puerto Argentino (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 1.1ºC :blue_heart: | Cloudy High :partly_sunny: | 20 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock9: Villa Reynolds (San Luis) :earth_americas: | 12.1ºC :green_heart: | Rainy :umbrella: | 11 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
