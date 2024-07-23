@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Mina Clavero (Córdoba) :earth_americas: | 25ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock9: San Javier (Santa Fe) :earth_americas: | 27.2ºC :yellow_heart: | Cloudy High :partly_sunny: | 11 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
