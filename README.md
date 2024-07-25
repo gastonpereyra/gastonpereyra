@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Puerto Argentino (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 1.1ºC :blue_heart: | Cloudy High :partly_sunny: | 20 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock9: San Pedro de Jujuy (Jujuy) :earth_americas: | 27.2ºC :yellow_heart: | Foggy :foggy: | 18 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
