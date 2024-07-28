@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Concepción del Uruguay (Entre Ríos) :earth_americas: | 23.7ºC :yellow_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock9: Bell Ville (Córdoba) :earth_americas: | 22.8ºC :yellow_heart: | Cloudy High :partly_sunny: | 16 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
