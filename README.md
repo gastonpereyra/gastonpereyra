@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Bell Ville (Córdoba) :earth_americas: | 22.8ºC :yellow_heart: | Cloudy High :partly_sunny: | 16 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock9: Posadas (Misiones) :earth_americas: | 29.2ºC :yellow_heart: | Sunny :sunny: | 3 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
