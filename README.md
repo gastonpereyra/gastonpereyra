@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Base San Martín (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 0.3ºC :blue_heart: | Snowfall :snowflake: | 55 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock9: Santa Rosa del Conlara (San Luis) :earth_americas: | 26ºC :yellow_heart: | Cloudy High :partly_sunny: | 25 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
