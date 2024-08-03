@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Neuquén (Neuquén) :earth_americas: | 9.2ºC :blue_heart: | Rainy :umbrella: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock9: Puerto San Julián (Santa Cruz) :earth_americas: | 1.5ºC :blue_heart: | Sunny :sunny: | 14 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
