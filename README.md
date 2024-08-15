@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Resistencia (Chaco) :earth_americas: | 29.4ºC :yellow_heart: | Sunny :sunny: | 9 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock9: Añatuya (Santiago del Estero) :earth_americas: | 30.8ºC :heart: | Sunny :sunny: | 7 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
