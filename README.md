@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Olavarría (Buenos Aires) :earth_americas: | 15.6ºC :green_heart: | Foggy :foggy: | 14 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock9: Belén (Catamarca) :earth_americas: | 25ºC :yellow_heart: | Sunny :sunny: | 14 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
