@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: La Carlota (Córdoba) :earth_americas: | 15.2ºC :green_heart: | Foggy :foggy: | 9 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock9: Sauce Viejo (Santa Fe) :earth_americas: | 28.9ºC :yellow_heart: | Cloudy High :partly_sunny: | 14 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
