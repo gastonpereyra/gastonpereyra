@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Libertador Gral San Martín (Jujuy) :earth_americas: | 27.2ºC :yellow_heart: | Foggy :foggy: | 18 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock9: Villa Ángela (Chaco) :earth_americas: | 31.9ºC :heart: | Sunny :sunny: | 13 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
