@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Humahuaca (Jujuy) :earth_americas: | 32.2ºC :heart: | Foggy :foggy: | 9 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock9: Chascomus (Buenos Aires) :earth_americas: | 19.6ºC :green_heart: | Cloudy High :partly_sunny: | 5 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
