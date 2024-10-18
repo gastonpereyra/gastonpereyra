@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Bell Ville (Córdoba) :earth_americas: | 22.8ºC :yellow_heart: | Cloudy High :partly_sunny: | 16 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock9: Base San Martín (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 0.3ºC :blue_heart: | Snowfall :snowflake: | 55 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
