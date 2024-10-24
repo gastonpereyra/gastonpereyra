@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Humahuaca (Jujuy) :earth_americas: | 32.2ºC :heart: | Foggy :foggy: | 9 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock9: Concepción del Uruguay (Entre Ríos) :earth_americas: | 23.7ºC :yellow_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
