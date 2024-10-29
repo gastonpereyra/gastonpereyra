@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Goya (Corrientes) :earth_americas: | 30.1ºC :heart: | Sunny :sunny: | 18 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock9: San Antonio de Areco (Buenos Aires) :earth_americas: | 21.2ºC :yellow_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
