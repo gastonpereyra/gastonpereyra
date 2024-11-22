@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Chamical (La Rioja) :earth_americas: | 26.4ºC :yellow_heart: | Cloudy High :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock9: Comodoro Rivadavia (Chubut) :earth_americas: | 3ºC :blue_heart: | Rainy :umbrella: | 9 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
