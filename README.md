@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Maipú (Buenos Aires) :earth_americas: | 18.2ºC :green_heart: | Foggy :foggy: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock9: Paraná (Entre Ríos) :earth_americas: | 27.2ºC :yellow_heart: | Cloudy High :partly_sunny: | 11 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
