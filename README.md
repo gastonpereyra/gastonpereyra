@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Uspallata (Mendoza) :earth_americas: | 18.6ºC :green_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock9: Concordia (Entre Ríos) :earth_americas: | 25.3ºC :yellow_heart: | Sunny :sunny: | 7 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
