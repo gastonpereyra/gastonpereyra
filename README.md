@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Morón (Buenos Aires) :earth_americas: | 22ºC :yellow_heart: | Cloudy High :partly_sunny: | 5 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock9: Chascomus (Buenos Aires) :earth_americas: | 19.6ºC :green_heart: | Cloudy High :partly_sunny: | 5 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
