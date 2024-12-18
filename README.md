@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Palpala (Jujuy) :earth_americas: | 27.2ºC :yellow_heart: | Foggy :foggy: | 18 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock9: Base Carlini (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -0.4ºC :purple_heart: | Snowfall :snowflake: | 64 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
