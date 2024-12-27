@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Puerto Madryn (Chubut) :earth_americas: | 7.8ºC :blue_heart: | Foggy :foggy: | 11 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock9: Viedma (Río Negro) :earth_americas: | 9.9ºC :blue_heart: | Foggy :foggy: | 13 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
