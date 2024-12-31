@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Clorinda (Formosa) :earth_americas: | 29.8ºC :yellow_heart: | Sunny :sunny: | 11 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock9: Coronel Moldes (Córdoba) :earth_americas: | 13.2ºC :green_heart: | Foggy :foggy: | 18 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
