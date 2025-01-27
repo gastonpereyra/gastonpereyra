@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Ciudad Evita (Buenos Aires) :earth_americas: | 22ºC :yellow_heart: | Cloudy High :partly_sunny: | 5 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock9: Uspallata (Mendoza) :earth_americas: | 18.6ºC :green_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
