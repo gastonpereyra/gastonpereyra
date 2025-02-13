@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Villa Ángela (Chaco) :earth_americas: | 31.9ºC :heart: | Sunny :sunny: | 13 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock9: Base San Martín (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 0.3ºC :blue_heart: | Snowfall :snowflake: | 55 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
