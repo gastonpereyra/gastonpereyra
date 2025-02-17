@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Villa General Belgrano (Córdoba) :earth_americas: | 25ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 3 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock9: Pirané (Formosa) :earth_americas: | 29.8ºC :yellow_heart: | Sunny :sunny: | 11 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
