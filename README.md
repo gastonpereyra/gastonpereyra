@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Metán (Salta) :earth_americas: | 25.2ºC :yellow_heart: | Foggy :foggy: | 18 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock9: Comodoro Rivadavia (Chubut) :earth_americas: | 3ºC :blue_heart: | Rainy :umbrella: | 9 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
