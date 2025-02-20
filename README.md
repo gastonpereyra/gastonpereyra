@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Colón (Entre Ríos) :earth_americas: | 23.7ºC :yellow_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock9: San Bernardo (Buenos Aires) :earth_americas: | 13ºC :green_heart: | Foggy :foggy: | 5 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
