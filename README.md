@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Punta de Vacas (Mendoza) :earth_americas: | 18.6ºC :green_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock9: Bahía Blanca (Buenos Aires) :earth_americas: | 10.2ºC :green_heart: | Foggy :foggy: | 16 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
