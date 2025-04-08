@@ -9,7 +9,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: San Carlos de Bolívar (Buenos Aires) :earth_americas: | 16ºC :green_heart: | Foggy :foggy: | 9 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock9: El Calafate (Santa Cruz) :earth_americas: | -0.2ºC :purple_heart: | Sunny Overcast :partly_sunny: | 9 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
