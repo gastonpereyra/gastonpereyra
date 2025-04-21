@@ -1,5 +1,6 @@
 <h1 align="center"><b>:wave: Hi! I'm Gastón :lemon:</b></h1>
-<p align="center">... :computer: <i>Web-Developer</i> from <b>Argentina</b> :argentina: ...</p>
+<p align="center">... :computer: <i>Backend-Developer</i> from <b>Argentina</b> :argentina: ...</p>
+<p align="center">... :house: Living in <b>España</b> :es: ...</p>
 
 <p align="center">
     <img width="500" src="https://user-images.githubusercontent.com/39351850/133913399-254b182e-2909-49c5-a424-dc27690f39b1.png">
