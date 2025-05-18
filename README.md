@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Rosario (Santa Fe) :earth_americas: | 27.2ºC :yellow_heart: | Cloudy High :partly_sunny: | 5 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock9: San Salvador de Jujuy (Jujuy) :earth_americas: | 27.2ºC :yellow_heart: | Foggy :foggy: | 18 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
