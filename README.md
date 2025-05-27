@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Alta Gracia (Córdoba) :earth_americas: | 18.8ºC :green_heart: | Foggy :foggy: | 5 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock9: Tinogasta (Catamarca) :earth_americas: | 25ºC :yellow_heart: | Sunny :sunny: | 14 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
