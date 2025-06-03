@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Rawson (Chubut) :earth_americas: | 7.8ºC :blue_heart: | Foggy :foggy: | 11 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock9: San Juan (San Juan) :earth_americas: | 12ºC :green_heart: | Foggy :foggy: | 16 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
