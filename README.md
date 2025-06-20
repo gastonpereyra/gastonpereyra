@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Malargüe (Mendoza) :earth_americas: | 10ºC :green_heart: | Cloudy High :partly_sunny: | 5 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock9: Pehuajó (Buenos Aires) :earth_americas: | 16ºC :green_heart: | Foggy :foggy: | 22 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
