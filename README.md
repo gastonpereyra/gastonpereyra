@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: General Villegas (Buenos Aires) :earth_americas: | 13.3ºC :green_heart: | Foggy :foggy: | 18 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock9: Melincué (Santa Fe) :earth_americas: | 23ºC :yellow_heart: | Rainy :umbrella: | 3 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
