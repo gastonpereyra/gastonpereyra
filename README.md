@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Tartagal (Salta) :earth_americas: | 33.6ºC :heart: | Sunny Overcast :partly_sunny: | 24 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock9: 9 de Julio (Buenos Aires) :earth_americas: | 17.9ºC :green_heart: | Rainy :umbrella: | 7 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
