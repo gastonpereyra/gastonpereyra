@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Concordia (Entre Ríos) :earth_americas: | 25.3ºC :yellow_heart: | Sunny :sunny: | 7 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock9: Zapala (Neuquén) :earth_americas: | 5ºC :blue_heart: | Rainy :umbrella: | 9 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
