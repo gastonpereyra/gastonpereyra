@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Villa de María (Córdoba) :earth_americas: | 20.4ºC :yellow_heart: | Cloudy High :partly_sunny: | 3 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock9: Concordia (Entre Ríos) :earth_americas: | 25.3ºC :yellow_heart: | Sunny :sunny: | 7 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
