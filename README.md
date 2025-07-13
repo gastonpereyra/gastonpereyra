@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: La Toma (San Luis) :earth_americas: | 13.9ºC :green_heart: | Foggy :foggy: | 16 km/h :wind_chime: South-East :arrow_lower_right:</p>
+> <p align="center">:clock9: Ciudad Jardin Lomas del Palomar (Buenos Aires) :earth_americas: | 21.3ºC :yellow_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
