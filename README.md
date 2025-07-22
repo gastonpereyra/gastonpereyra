@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Base Carlini (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | -0.4ºC :purple_heart: | Snowfall :snowflake: | 64 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock9: San Fernando (Buenos Aires) :earth_americas: | 19.7ºC :green_heart: | Cloudy High :partly_sunny: | 11 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
