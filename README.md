@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Santa Fe (Santa Fe) :earth_americas: | 28.9ºC :yellow_heart: | Cloudy High :partly_sunny: | 14 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock9: Merlo (San Luis) :earth_americas: | 26ºC :yellow_heart: | Cloudy High :partly_sunny: | 25 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
