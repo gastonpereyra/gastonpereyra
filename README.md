@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Humahuaca (Jujuy) :earth_americas: | 32.2ºC :heart: | Foggy :foggy: | 9 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock9: Sunchales (Santa Fe) :earth_americas: | 28ºC :yellow_heart: | Cloudy High :partly_sunny: | 14 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
