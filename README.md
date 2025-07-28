@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Sunchales (Santa Fe) :earth_americas: | 28ºC :yellow_heart: | Cloudy High :partly_sunny: | 14 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock9: Ituzaingo (Corrientes) :earth_americas: | 26.6ºC :yellow_heart: | Sunny :sunny: | 11 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
