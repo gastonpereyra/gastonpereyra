@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Eldorado (Misiones) :earth_americas: | 24.6ºC :yellow_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock9: Bahía Blanca (Buenos Aires) :earth_americas: | 10.2ºC :green_heart: | Foggy :foggy: | 16 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
