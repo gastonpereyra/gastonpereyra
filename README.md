@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Tandil (Buenos Aires) :earth_americas: | 15.4ºC :green_heart: | Foggy :foggy: | 9 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock9: San Carlos de Bariloche (Río Negro) :earth_americas: | 3.6ºC :blue_heart: | Rainy :umbrella: | 7 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
