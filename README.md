@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Base San Martín (Tierra del Fuego, Antártida e Islas del Atlántico Sur) :earth_americas: | 0.3ºC :blue_heart: | Snowfall :snowflake: | 55 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock9: Viedma (Río Negro) :earth_americas: | 9.9ºC :blue_heart: | Foggy :foggy: | 13 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
