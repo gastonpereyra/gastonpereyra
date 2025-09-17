@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Aeroparque Buenos Aires (Capital Federal) :earth_americas: | 18.2ºC :green_heart: | Cloudy High :partly_sunny: | 16 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock9: Campo de Mayo (Buenos Aires) :earth_americas: | 20.6ºC :yellow_heart: | Cloudy High :partly_sunny: | 7 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
