@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Villa Ángela (Chaco) :earth_americas: | 31.9ºC :heart: | Sunny :sunny: | 13 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock9: Laboulaye (Córdoba) :earth_americas: | 15.2ºC :green_heart: | Foggy :foggy: | 9 km/h :wind_chime: South-West :arrow_lower_left:</p>
 
 ---
 
