@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Santiago del Estero (Santiago del Estero) :earth_americas: | 30.8ºC :heart: | Sunny :sunny: | 7 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock9: Metán (Salta) :earth_americas: | 25.2ºC :yellow_heart: | Foggy :foggy: | 18 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
