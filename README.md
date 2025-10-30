@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Tartagal (Salta) :earth_americas: | 33.6ºC :heart: | Sunny Overcast :partly_sunny: | 24 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock9: Villa María (Córdoba) :earth_americas: | 18ºC :green_heart: | Foggy :foggy: | 11 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
