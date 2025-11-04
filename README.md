@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Presidencia Roque Sáenz Peña (Chaco) :earth_americas: | 31.9ºC :heart: | Sunny :sunny: | 13 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock9: Mendoza (Mendoza) :earth_americas: | 11.8ºC :green_heart: | Foggy :foggy: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
