@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Santiago del Estero (Santiago del Estero) :earth_americas: | 30.8ºC :heart: | Sunny :sunny: | 7 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock9: San Carlos de Bolívar (Buenos Aires) :earth_americas: | 16ºC :green_heart: | Foggy :foggy: | 9 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
