@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Aguilares (Tucumán) :earth_americas: | 29.2ºC :yellow_heart: | Sunny :sunny: | 11 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock9: Bahía Blanca (Buenos Aires) :earth_americas: | 10.2ºC :green_heart: | Foggy :foggy: | 16 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
