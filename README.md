@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Termas de Río Hondo (Santiago del Estero) :earth_americas: | 29.2ºC :yellow_heart: | Sunny :sunny: | 11 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock9: Maquinchao (Río Negro) :earth_americas: | 3.7ºC :blue_heart: | Cloudy High :partly_sunny: | 3 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
