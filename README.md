@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Neuquén (Neuquén) :earth_americas: | 9.2ºC :blue_heart: | Rainy :umbrella: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock9: Chapelco (Neuquén) :earth_americas: | 5ºC :blue_heart: | Rainy :umbrella: | 9 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
