@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Rosario (Santa Fe) :earth_americas: | 27.2ºC :yellow_heart: | Cloudy High :partly_sunny: | 5 km/h :wind_chime: North-East :arrow_upper_right:</p>
+> <p align="center">:clock9: Cruz del Eje (Córdoba) :earth_americas: | 17.6ºC :green_heart: | Foggy :foggy: | 9 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
