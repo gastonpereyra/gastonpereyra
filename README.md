@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Minas Morgul (Mordor) :earth_americas: | 26.93°C :yellow_heart: | Cloudy :cloud: | 0.62 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock2: Minas Morgul (Mordor) :earth_americas: | 52.94°C :heart: | Cloudy Down :cloud: | 0.49 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
