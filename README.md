@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock2: Armenelos (Numenor) :earth_americas: | 11.04°C :green_heart: | Drizzle :droplet: | 18.35 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock8: Armenelos (Numenor) :earth_americas: | 10.88°C :green_heart: | Rainy :umbrella: | 28.66 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
