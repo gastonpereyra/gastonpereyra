@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Eduardo Castex (La Pampa) :earth_americas: | 13.3ºC :green_heart: | Foggy :foggy: | 18 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock9: La Plata (Buenos Aires) :earth_americas: | 19.6ºC :green_heart: | Cloudy High :partly_sunny: | 5 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
