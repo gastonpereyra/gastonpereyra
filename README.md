@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Bernardo de Irigoyen (Misiones) :earth_americas: | 23ºC :yellow_heart: | Sunny :sunny: | 3 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock9: Olavarría (Buenos Aires) :earth_americas: | 15.6ºC :green_heart: | Foggy :foggy: | 14 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
