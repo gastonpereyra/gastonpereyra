@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Las Lomitas (Formosa) :earth_americas: | 34ºC :heart: | Sunny :sunny: | 5 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock9: Eduardo Castex (La Pampa) :earth_americas: | 13.3ºC :green_heart: | Foggy :foggy: | 18 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
