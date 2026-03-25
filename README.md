@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: El Bolsón (Río Negro) :earth_americas: | 4.3ºC :blue_heart: | Foggy :foggy: | 0 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock9: Santa Rosa (La Pampa) :earth_americas: | 11.8ºC :green_heart: | Rainy :umbrella: | 16 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
