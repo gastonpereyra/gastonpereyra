@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Gualeguay (Entre Ríos) :earth_americas: | 23.7ºC :yellow_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock9: Zárate (Buenos Aires) :earth_americas: | 21.2ºC :yellow_heart: | Cloudy High :partly_sunny: | 9 km/h :wind_chime: North-East :arrow_upper_right:</p>
 
 ---
 
