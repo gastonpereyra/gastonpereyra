@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Villa Reynolds (San Luis) :earth_americas: | 12.1ºC :green_heart: | Rainy :umbrella: | 11 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock9: Caleta Olivia (Santa Cruz) :earth_americas: | 3ºC :blue_heart: | Rainy :umbrella: | 9 km/h :wind_chime: West :arrow_left:</p>
 
 ---
 
