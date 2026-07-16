@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Tostado (Santa Fe) :earth_americas: | 23.2ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 16 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock9: Chamical (La Rioja) :earth_americas: | 26.4ºC :yellow_heart: | Cloudy High :partly_sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
