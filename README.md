@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Tafí Viejo (Tucumán) :earth_americas: | 26.9ºC :yellow_heart: | Cloudy High :partly_sunny: | 11 km/h :wind_chime: South-West :arrow_lower_left:</p>
+> <p align="center">:clock9: San Fernando del Valle de Catamarca (Catamarca) :earth_americas: | 26.6ºC :yellow_heart: | Sunny Overcast :partly_sunny: | 5 km/h :wind_chime: South :arrow_down:</p>
 
 ---
 
