@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock1: Minas Tirith (Gondor) :earth_americas: | 10.03°C :green_heart: | Unstable :foggy: | 0.11 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock8: Rivendel (Eriador) :earth_americas: | -6.99°C :purple_heart: | Snow :snowman: | 3.42 km/h :wind_chime: North :arrow_up:</p>
 
 ---
 
