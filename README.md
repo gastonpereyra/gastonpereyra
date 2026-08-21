@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock8: Rivendel (Eriador) :earth_americas: | -7.14°C :purple_heart: | Foggy :foggy: | 0.8 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock1: Armenelos (Numenor) :earth_americas: | 20.15°C :yellow_heart: | Cloudy Down :cloud: | 10.73 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
