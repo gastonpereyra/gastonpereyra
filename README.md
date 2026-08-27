@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Armenelos (Numenor) :earth_americas: | 20.04°C :yellow_heart: | undefined :cyclone: | 87.32 km/h :wind_chime: South :arrow_down:</p>
+> <p align="center">:clock10: Gondolin (Beleriand) :earth_americas: | 1.13°C :blue_heart: | Thunderstorm :zap: | 6.09 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
