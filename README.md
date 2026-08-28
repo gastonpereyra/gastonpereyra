@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock10: Gondolin (Beleriand) :earth_americas: | 1.13°C :blue_heart: | Thunderstorm :zap: | 6.09 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock11: Minas Tirith (Gondor) :earth_americas: | 23.66°C :yellow_heart: | Unstable :foggy: | 4.51 km/h :wind_chime: North-West :arrow_upper_left:</p>
 
 ---
 
