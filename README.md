@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock11: Minas Tirith (Gondor) :earth_americas: | 22.37°C :yellow_heart: | Rain Mix :umbrella: | 1.64 km/h :wind_chime: North :arrow_up:</p>
+> <p align="center">:clock4: Minas Morgul (Mordor) :earth_americas: | 49.57°C :heart: | Cloudy Down :cloud: | 0.07 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
