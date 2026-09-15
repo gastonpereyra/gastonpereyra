@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock11: Rivendel (Eriador) :earth_americas: | 13.95°C :green_heart: | Thunderstorm :zap: | 1.05 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock4: Rivendel (Eriador) :earth_americas: | 10.8°C :green_heart: | Unstable :foggy: | 7.05 km/h :wind_chime: South-East :arrow_lower_right:</p>
 
 ---
 
