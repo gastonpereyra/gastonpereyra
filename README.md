@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock5: Gondolin (Beleriand) :earth_americas: | 9.69°C :blue_heart: | Sunny Overcast :partly_sunny: | 14.68 km/h :wind_chime: North-West :arrow_upper_left:</p>
+> <p align="center">:clock1: Rivendel (Eriador) :earth_americas: | -4.31°C :purple_heart: | Cloudy Down :cloud: | 3.36 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
