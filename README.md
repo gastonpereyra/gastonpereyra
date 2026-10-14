@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock9: Corrientes (Corrientes) :earth_americas: | 28.9ºC :yellow_heart: | Sunny :sunny: | 7 km/h :wind_chime: East :arrow_right:</p>
+> <p align="center">:clock9: Eldorado (Misiones) :earth_americas: | 24.6ºC :yellow_heart: | Sunny :sunny: | 0 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
