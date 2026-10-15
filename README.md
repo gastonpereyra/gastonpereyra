@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock4: Rivendel (Eriador) :earth_americas: | 11.58°C :green_heart: | Sunny :sunny: | 0.75 km/h :wind_chime: West :arrow_left:</p>
+> <p align="center">:clock1: Minas Tirith (Gondor) :earth_americas: | 11.62°C :green_heart: | Rainy :umbrella: | 0.66 km/h :wind_chime: Calm :ok:</p>
 
 ---
 
