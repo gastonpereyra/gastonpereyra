@@ -10,7 +10,7 @@
     <img src="https://rgp-cards-service.vercel.app/api/user/gastonpereyra/languages?isCompact=true&hideTitle=true&width=500">
 </p>
 
-> <p align="center">:clock12: Armenelos (Numenor) :earth_americas: | 23.66°C :yellow_heart: | Variable Cloudiness :partly_sunny: | 1.51 km/h :wind_chime: Calm :ok:</p>
+> <p align="center">:clock2: Minas Morgul (Mordor) :earth_americas: | 49.4°C :heart: | Cloudy :cloud: | 0.47 km/h :wind_chime: East :arrow_right:</p>
 
 ---
 
